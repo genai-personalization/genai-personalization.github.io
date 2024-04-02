@@ -1,0 +1,10 @@
+- "**ABC** (XYZ University)"
+
+
+# import pandas as pd
+# reviewer_df = pd.read_csv("Reviewers-6.txt", sep="\t")
+# for ind, row in reviewer_df.iterrows():
+#     name_list = [row["First Name"], row["Middle Initial (optional)"], row["Last Name"]]
+#     if type(name_list[1]) is not str:
+#         del name_list[1]
+#     print(f'- \"**{" ".join(name_list)}** ({row["Organization"]})\"')

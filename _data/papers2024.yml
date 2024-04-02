@@ -1,0 +1,29 @@
+# - title: 
+#   authors: 
+#   abstract: 
+#   PDF: 
+#   code: 
+#   new_dataset: True
+
+- title: "title"
+  authors: "authors"
+  abstract: "abstract"
+  PDF: /assets/papers/genaiper2024/xyz.pdf
+  code: https://github.com/abc/xyz
+  new_dataset: False
+
+
+- title: "title"
+  authors: "authors"
+  abstract: "abstract"
+  PDF: /assets/papers/genaiper2024/xyz.pdf
+  code: https://github.com/abc/xyz
+  new_dataset: False
+
+
+- title: "title"
+  authors: "authors"
+  abstract: "abstract"
+  PDF: /assets/papers/genaiper2024/xyz.pdf
+  code: https://github.com/abc/xyz
+  new_dataset: False
