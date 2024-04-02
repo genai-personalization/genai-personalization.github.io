@@ -51,7 +51,48 @@ panelists:
         AWS AI Labs
       bio: >
         Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
- 
+
+   - image_path: /assets/images/genaiper2024/Aniket.JPG
+      alt: "Aniket Deshmukh"
+      excerpt: >
+        **Aniket Deshmukh**<br>
+        AWS AI Labs
+      bio: >
+        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+
+   - image_path: /assets/images/genaiper2024/Aniket.JPG
+      alt: "Aniket Deshmukh"
+      excerpt: >
+        **Aniket Deshmukh**<br>
+        AWS AI Labs
+      bio: >
+        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+---
+
+organizers:
+    - image_path: /assets/images/genaiper2024/Aniket.JPG
+      alt: "Aniket Deshmukh"
+      excerpt: >
+        **Aniket Deshmukh**<br>
+        AWS AI Labs
+      bio: >
+        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+
+   - image_path: /assets/images/genaiper2024/Aniket.JPG
+      alt: "Aniket Deshmukh"
+      excerpt: >
+        **Aniket Deshmukh**<br>
+        AWS AI Labs
+      bio: >
+        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+
+   - image_path: /assets/images/genaiper2024/Aniket.JPG
+      alt: "Aniket Deshmukh"
+      excerpt: >
+        **Aniket Deshmukh**<br>
+        AWS AI Labs
+      bio: >
+        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
 ---
 
 
@@ -86,7 +127,7 @@ Meeting: 26 August 2024
 
 # Schedule
 
-We have a full-day program from <u>8am to 5pm on Sunday (Aug. 6)</u> at ***Grand Ballroom B***. 
+We have a half-day program from <u>8am to 12pm on Monday (Aug. 26)</u> at ***Location: TBD***. 
 
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
@@ -109,6 +150,7 @@ We have a full-day program from <u>8am to 5pm on Sunday (Aug. 6)</u> at ***Grand
 # Panelists
 {% include feature_row id="panelists" %}
 
+
 # Accepted Papers
 <ul>
 {% for pubitem in site.data.papers2024 %}
@@ -130,8 +172,7 @@ We have a full-day program from <u>8am to 5pm on Sunday (Aug. 6)</u> at ***Grand
 </ul>
 
 # Organizers
-Please contact us through <a target="_blank" href="https://mailhide.io/e/5RV52Tlm">this email address</a> if you have any questions.
-
+{% include feature_row id="organizers" %}
 
 # Program Committee
 <div class="small row-two-columns">
