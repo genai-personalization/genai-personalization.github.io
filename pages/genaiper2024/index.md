@@ -132,33 +132,6 @@ We have a full-day program from <u>8am to 5pm on Sunday (Aug. 6)</u> at ***Grand
 # Organizers
 Please contact us through <a target="_blank" href="https://mailhide.io/e/5RV52Tlm">this email address</a> if you have any questions.
 
-{% capture organizers %}
-A list of organizers can also be found [here](https://airtable.com/shrwvG9wYqjrbXq0s/tblLXlCDQlpCBK6lR?backgroundColor=purple).
-{% endcapture %}
-
-<div class="small">
-{{ organizers | markdownify }}
-</div>
-
-<style>
-    #organizer-wrap { width: 100%; height: 750; padding: 0; overflow: hidden; }
-    #organizer-frame { width: 107%; height: 750; background: transparent; border: 1px solid #ccc; }
-    #organizer-frame {
-        -ms-zoom: 0.93;
-        -moz-transform: scale(0.93);
-        -moz-transform-origin: 0 0;
-        -o-transform: scale(0.93);
-        -o-transform-origin: 0 0;
-        -webkit-transform: scale(0.93);
-        -webkit-transform-origin: 0 0;
-    }
-</style>
-<div id="organizer-wrap">
-<iframe id="organizer-frame" class="airtable-embed" src="https://airtable.com/embed/shrwvG9wYqjrbXq0s?backgroundColor=purple" frameborder="0" onmousewheel="" height="750" style="background: transparent; border: 1px solid #ccc;"></iframe>
-</div>
-
-<!-- <iframe class="airtable-embed" src="https://airtable.com/embed/shrwvG9wYqjrbXq0s?backgroundColor=purple" frameborder="0" onmousewheel="" width="106%" height="750" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
-
 
 # Program Committee
 <div class="small row-two-columns">
