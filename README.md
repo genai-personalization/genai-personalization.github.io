@@ -1,4 +1,4 @@
-# GLB 2021 Website
+# GenAIPersonalization 2024 Website
 
 This website is based on [Jekyll](https://jekyllrb.com) and [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/). 
 
