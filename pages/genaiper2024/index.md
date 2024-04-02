@@ -42,7 +42,7 @@ keynote:
 
       spaces: true
 
-   - image_path: /assets/images/genaiper2024/Aniket.JPG
+    - image_path: /assets/images/genaiper2024/Aniket.JPG
       alt: "Aniket Deshmukh2"
       title: "Aniket Deshmukh"
       excerpt: |
@@ -57,7 +57,7 @@ keynote:
 
       spaces: true
 
-   - image_path: /assets/images/genaiper2024/Aniket.JPG
+    - image_path: /assets/images/genaiper2024/Aniket.JPG
       alt: "Aniket Deshmukh3"
       title: "Aniket Deshmukh"
       excerpt: |
@@ -82,7 +82,7 @@ panelists:
       bio: >
         Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
 
-   - image_path: /assets/images/genaiper2024/Aniket.JPG
+    - image_path: /assets/images/genaiper2024/Aniket.JPG
       alt: "Aniket Deshmukh"
       excerpt: >
         **Aniket Deshmukh**<br>
@@ -90,7 +90,7 @@ panelists:
       bio: >
         Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
 
-   - image_path: /assets/images/genaiper2024/Aniket.JPG
+    - image_path: /assets/images/genaiper2024/Aniket.JPG
       alt: "Aniket Deshmukh"
       excerpt: >
         **Aniket Deshmukh**<br>
@@ -108,7 +108,7 @@ organizers:
       bio: >
         Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
 
-   - image_path: /assets/images/genaiper2024/Aniket.JPG
+    - image_path: /assets/images/genaiper2024/Aniket.JPG
       alt: "Aniket Deshmukh"
       excerpt: >
         **Aniket Deshmukh**<br>
@@ -116,7 +116,7 @@ organizers:
       bio: >
         Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
 
-   - image_path: /assets/images/genaiper2024/Aniket.JPG
+    - image_path: /assets/images/genaiper2024/Aniket.JPG
       alt: "Aniket Deshmukh"
       excerpt: >
         **Aniket Deshmukh**<br>
