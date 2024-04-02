@@ -23,8 +23,6 @@ navigation:
     url: /genaiper2024#panelists
   - title: "Organization"
     url: /genaiper2024#organizers
-  - title: "Past Editions"
-    url: /all-editions
 
 keynote: 
     - image_path: /assets/images/genaiper2024/Aniket.JPG
