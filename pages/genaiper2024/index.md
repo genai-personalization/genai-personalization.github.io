@@ -195,11 +195,11 @@ We have a half-day program from <u>8am to 12pm on Monday (Aug. 26)</u> at ***Loc
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
 | **8:00-8:10am**    | **Opening remarks** |
-| **8:10-8:50am**    | **[Keynote by Aniket Deshmukh](#Aniket+Deshmukh1) (40 min)**: <br> XYZ |
-| **8:50-9:30am**    | **[Keynote by Aniket Deshmukh](#Aniket+Deshmukh2) (40 min)**: <br> XYZ |
+| **8:10-8:50am**    | **[Keynote by TBD TBD](#TBD+TBD) (40 min)**: <br> XYZ |
+| **8:50-9:30am**    | **[Keynote by TBD TBD](#TBD+TBD) (40 min)**: <br> XYZ |
 | **9:30-10:30am**    | **Coffee Break/Poster Session** |
-| **10:30-11:00am**    | **[Keynote by Aniket Deshmukh](#Aniket+Deshmukh3) (30 min)**: <br> XYZ |
-| **11:00-12:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Moderator**:Aniket Deshmukh<br>**Panelists**: Aniket Deshmukh, Aniket Deshmukh, Aniket Deshmukh|
+| **10:30-11:00am**    | **[Keynote by TBD TBD](#TBD+TBD) (30 min)**: <br> XYZ |
+| **11:00-12:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
 | **12:00-12:10pm**    | **Closing Remarks** |
 
 <div class="small">
