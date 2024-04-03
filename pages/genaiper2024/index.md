@@ -29,7 +29,7 @@ keynote:
       alt: "Ed Chi"
       title: "Ed Chi"
       excerpt: |
-        ***AWS AI Labs*** <br>
+        ***Google DeepMind*** <br>
         **Title of the talk**
 
       abstract: >
