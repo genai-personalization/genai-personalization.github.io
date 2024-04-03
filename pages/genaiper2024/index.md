@@ -146,7 +146,7 @@ organizers:
       bio: >
         Julian McAuley has been a professor in the Computer Science Department at the University of California, San Diego since 2014. Previously he was a postdoctoral scholar at Stanford University after receiving his PhD from the Australian National University in 2011. His research is concerned with developing predictive models of human behavior using large volumes of online activity data. He has organized a large number of workshops, including workshops on recommendation, e-commerce, and natural language processing.
 
-    - image_path: /assets/images/genaiper2024/Julian.jpg
+    - image_path: /assets/images/genaiper2024/GeorgeKarypis.png
       alt: "George Karypis"
       excerpt: >
         **George Karypis**<br>
