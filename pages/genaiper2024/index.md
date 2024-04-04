@@ -40,7 +40,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/genaiper2024/dietmar.JPG
+    - image_path: /assets/images/genaiper2024/dietmar.jpg
       alt: "Dietmar Jannach"
       title: "Dietmar Jannach"
       excerpt: |
@@ -55,7 +55,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/genaiper2024/Dawen.jpg
+    - image_path: /assets/images/genaiper2024/dawen.jpg
       alt: "Dawen Liang"
       title: "Dawen Liang"
       excerpt: |
