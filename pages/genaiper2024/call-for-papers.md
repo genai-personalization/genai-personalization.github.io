@@ -54,15 +54,16 @@ We will welcome papers that leverage generative models with a goal of recommenda
 - How should supplementary materials be submitted?
 - Where can I submit my paper?
 
-### Panel:
 
 ### Invited speakers:
 - Ed Chi, Google DeepMind
 - Dietmar Jannach, University of Klagenfurt
-- Craig Macdonald, University of Glasgow
-- Xiao-Ming Wu, The Hong Kong Polytechnic University
 - Dawen Liang, Netflix
 
+### Panel:
+- Ed Chi, Google DeepMind
+
+  
 ### Organizers:
 - Narges Tabari, AWS AI Labs
 - Aniket Deshmukh, AWS AI Labs
