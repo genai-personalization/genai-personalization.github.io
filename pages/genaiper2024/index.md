@@ -30,7 +30,7 @@ keynote:
       title: "Ed Chi"
       excerpt: |
         ***Google DeepMind*** <br>
-        **Title of the talk**
+        **Title of the talk: TBD**
 
       abstract: >
         Abstract.
@@ -40,62 +40,45 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/genaiper2024/Aniket.JPG
-      alt: "Aniket Deshmukh2"
-      title: "Aniket Deshmukh"
+    - image_path: /assets/images/genaiper2024/dietmar.JPG
+      alt: "Dietmar Jannach"
+      title: "Dietmar Jannach"
       excerpt: |
-        ***AWS AI Labs*** <br>
-        **Title of the talk**
+        ***University of Klagenfurt, University of Bergen*** <br>
+        **Title of the talk: TBD**
 
       abstract: >
         Abstract.
       
       bio: >
-        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+        Dietmar Jannach is a Professor at the University of Klagenfurt in Austria. He has authored more than 150 publications in areas including recommender systems technology, knowledge-based systems development, constraint-based systems, semantic web applications and web mining, and software engineering. Among his publications, Jannach is a co-author of the book Recommender Systems: An Introduction. His current line of research is focused on the design and evaluation of machine learning algorithms for recommender systems and on the impact and value of recommender systems in practice.
 
       spaces: true
 
-    - image_path: /assets/images/genaiper2024/Aniket.JPG
-      alt: "Aniket Deshmukh3"
-      title: "Aniket Deshmukh"
+    - image_path: /assets/images/genaiper2024/Dawen.jpg
+      alt: "Dawen Liang"
+      title: "Dawen Liang"
       excerpt: |
-        ***AWS AI Labs*** <br>
-        **Title of the talk**
+        ***Netflix*** <br>
+        **Title of the talk: TBD**
 
       abstract: >
         Abstract.
       
       bio: >
-        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+        Dawen Liang is a research scientist at Netflix, working on core personalization algorithms. His research interests include probabilistic models and (approximate) inference, causal inference, reinforcement learning, and their applications to recommender systems. He completed his Ph.D. in the Electrical Engineering Department at Columbia University, working on probabilistic latent variable models for analyzing music, speech, text, and user behavior data.
 
       spaces: true
 
 
 panelists:
-    - image_path: /assets/images/genaiper2024/Aniket.JPG
-      alt: "Aniket Deshmukh"
+    - image_path: /assets/images/genaiper2024/Ed.jpg
+      alt: "Ed Chi"
       excerpt: >
-        **Aniket Deshmukh**<br>
-        AWS AI Labs
+        **Ed Chi**<br>
+        Google DeepMind
       bio: >
-        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
-
-    - image_path: /assets/images/genaiper2024/Aniket.JPG
-      alt: "Aniket Deshmukh"
-      excerpt: >
-        **Aniket Deshmukh**<br>
-        AWS AI Labs
-      bio: >
-        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
-
-    - image_path: /assets/images/genaiper2024/Aniket.JPG
-      alt: "Aniket Deshmukh"
-      excerpt: >
-        **Aniket Deshmukh**<br>
-        AWS AI Labs
-      bio: >
-        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
-
+        Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (LaMDA/Bard), neural recommendations, and reliable machine learning. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo
 
 organizers:
 
