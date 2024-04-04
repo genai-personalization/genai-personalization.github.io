@@ -173,7 +173,7 @@ Meeting: 26 August 2024
 
 # Schedule
 
-We have a half-day program from <u>8am to 12pm on Monday (Aug. 26)</u> at ***Location: TBD***. 
+We have a half-day program either from <u>8am to 12pm or 1pm to 5pm on Monday (Aug. 26)</u> at ***Location: TBD***. 
 
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
