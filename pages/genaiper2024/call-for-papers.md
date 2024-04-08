@@ -60,9 +60,6 @@ We will welcome papers that leverage generative models with a goal of recommenda
 - Dietmar Jannach, University of Klagenfurt
 - Dawen Liang, Netflix
 
-### Panel:
-- Ed Chi, Google DeepMind
-
   
 ### Organizers:
 - Narges Tabari, AWS AI Labs
