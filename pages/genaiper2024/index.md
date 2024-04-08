@@ -166,10 +166,8 @@ However, the use of generative models and user-generated text for personalized s
 
 **Workshop at KDD2024**    
 Submission deadline: 28 May 2024
-
 Author notifications: 28 June 2024
-
-Meeting: 26 August 2024
+Meeting: 25/26 August 2024
 
 # Schedule
 
