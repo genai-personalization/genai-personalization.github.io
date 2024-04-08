@@ -1,7 +1,7 @@
 ---
 permalink: /genaiper2024
 title: "Workshop on Generative AI for Recommender Systems and Personalization <br>(2024)"
-excerpt: Monday Aug. 26, 2024, 8am - 12pm <br> TBD, TBD <br> Held in conjunction with <a href="https://kdd.org/kdd2024/">KDD 2024</a>
+excerpt: Monday Aug. 25 or 26, 2024, xxpm - yypm <br> TBD, TBD <br> Held in conjunction with <a href="https://kdd.org/kdd2024/">KDD 2024</a>
 browser-title: "GenAIPer 2024"
 masthead-title: "GenAIPer 2024"
 masthead-subtitle: "@KDD 2024"
