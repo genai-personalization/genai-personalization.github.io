@@ -1,10 +1,10 @@
 ---
-permalink: /genaiper2024/call-for-papers
+permalink: /GenAIRecP2024/call-for-papers
 title: "Call for Papers - Generative AI for Recommender Systems and
 Personalization"
 layout: splash
-browser-title: "GenAIPer 2024"
-masthead-title: "GenAIPer 2024"
+browser-title: "GenAIRecP 2024"
+masthead-title: "GenAIRecP 2024"
 masthead-subtitle: "@KDD 2024"
 masthead-url: "/"
 # classes: wide
