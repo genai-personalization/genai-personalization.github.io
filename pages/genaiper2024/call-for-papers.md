@@ -21,7 +21,7 @@ header:
 </div> -->
 
 We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to:
-- Generative AI for contextual and sequential modeling in recommender systems
+- Generative AI for multimodal and sequential modeling in recommender systems
 - Personalized generative retrieval and recommendation models
 - Instruction-tuned recommender systems
 - LLM-driven personalized dialogue systems
@@ -46,14 +46,14 @@ We will welcome papers that leverage generative models with a goal of recommenda
 - Dual submission policy: This workshop welcomes ongoing and unpublished work but will also accept papers that are under review or have recently been accepted at other venues.
 
 ### FAQ
-- Can previously published paper be submitted to the workshop?:
-- Can I submit work that is currently under review elsewhere?
-- How to access the workshop on the day of the event:
-- What is the page limit for submissions?
-- Are there any specific formatting guidelines for submissions?
-- How should supplementary materials be submitted?
-- Where can I submit my paper?
-
+- Q: Can I submit work that is currently under review elsewhere?
+  - A: Yes.
+- Q: Will the workshop papers be included in the KDD'24 proceeding?
+  - A: No, so submitting to the workshop conforms to the dual submission policy.
+- Q: I'm from industry, how should I maintain anonymity?
+  - A: The author's information should be fully anonymized for double-blind review. However, it's acceptable to explicitly refer in the paper to the companies or organizations that provided datasets, hosted experiments or deployed solutions.
+- Q: Can previously published papers be submitted to the workshop?
+  - A: Yes, though we only encourage very recent and relevant papers.
 
 ### Invited speakers:
 - Ed Chi, Google DeepMind
