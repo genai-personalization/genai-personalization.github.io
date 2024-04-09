@@ -1,9 +1,9 @@
 ---
-permalink: /genaiper2024
+permalink: /GenAIRecP2024
 title: "Workshop on Generative AI for Recommender Systems and Personalization <br>(2024)"
 excerpt: Monday Aug. 25 or 26, 2024, xxpm - yypm <br> TBD, TBD <br> Held in conjunction with <a href="https://kdd.org/kdd2024/">KDD 2024</a>
-browser-title: "GenAIPer 2024"
-masthead-title: "GenAIPer 2024"
+browser-title: "GenAIRecP 2024"
+masthead-title: "GenAIRecP 2024"
 masthead-subtitle: "@KDD 2024"
 masthead-url: "/"
 layout: splash
@@ -14,18 +14,18 @@ header:
     overlay_image: /assets/images/GenAIBanner.PNG
 navigation:
   - title: "CfP"
-    url: /genaiper2024/call-for-papers
+    url: /GenAIRecP2024/call-for-papers
   - title: "Schedule"
-    url: /genaiper2024#schedule
+    url: /GenAIRecP2024#schedule
   - title: "Keynotes"
-    url: /genaiper2024#keynote-speakers
+    url: /GenAIRecP2024#keynote-speakers
   - title: "Panelists"
-    url: /genaiper2024#panelists
+    url: /GenAIRecP2024#panelists
   - title: "Organization"
-    url: /genaiper2024#organizers
+    url: /GenAIRecP2024#organizers
 
 keynote: 
-    - image_path: /assets/images/genaiper2024/Ed.jpg
+    - image_path: /assets/images/GenAIRecP2024/Ed.jpg
       alt: "Ed Chi"
       title: "Ed Chi"
       excerpt: |
@@ -40,7 +40,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/genaiper2024/dietmar.jpg
+    - image_path: /assets/images/GenAIRecP2024/dietmar.jpg
       alt: "Dietmar Jannach"
       title: "Dietmar Jannach"
       excerpt: |
@@ -55,7 +55,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/genaiper2024/dawen.jpg
+    - image_path: /assets/images/GenAIRecP2024/dawen.jpg
       alt: "Dawen Liang"
       title: "Dawen Liang"
       excerpt: |
@@ -72,7 +72,7 @@ keynote:
 
 
 panelists:
-    - image_path: /assets/images/genaiper2024/Ed.jpg
+    - image_path: /assets/images/GenAIRecP2024/Ed.jpg
       alt: "Ed Chi"
       excerpt: >
         **Ed Chi**<br>
@@ -82,7 +82,7 @@ panelists:
 
 organizers:
 
-    - image_path: /assets/images/genaiper2024/Narges.jpg
+    - image_path: /assets/images/GenAIRecP2024/Narges.jpg
       alt: "Narges Tabari:"
       excerpt: >
         **Narges Tabari:**<br>
@@ -90,7 +90,7 @@ organizers:
       bio: >
         Narges Tabari is an Applied Scientist working at AWS AI Labs. She received her PhD in 2018 in Computer Science at the University of North Carolina. She mainly wroks towards applications of NLP, from sentiment analysis, emotion detection, summarization, text generation, and intersection of NLP with recommender systems and personalization. Before joining Amazon, she was a Research Scientist at the University of Virginia and an NLP Engineer at Genentech. She has served as Session Chair for NAACL 2022 Industry Track, and has extensive experience reviewing for conferences such as NAACL, AAAI, and ACL.
         
-    - image_path: /assets/images/genaiper2024/Aniket.JPG
+    - image_path: /assets/images/GenAIRecP2024/Aniket.JPG
       alt: "Aniket Deshmukh"
       excerpt: >
         **Aniket Deshmukh**<br>
@@ -99,7 +99,7 @@ organizers:
         Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
 
 
-    - image_path: /assets/images/genaiper2024/Wang.jpg
+    - image_path: /assets/images/GenAIRecP2024/Wang.jpg
       alt: "Wang-Cheng Kang"
       excerpt: >
         **Wang-Cheng Kang**<br>
@@ -107,7 +107,7 @@ organizers:
       bio: >
         Dr. Wang-Cheng Kang is a Staff Research Engineer at Google DeepMind, working on LLM/GenAI for RecSys and LLM data efficiency. He held a PhD in Computer Science from UC San Diego, and interned at Adobe Research, Pinterest Labs, and Google Brain, focusing on recommender systems. He received RecSys'17 Best Paper Runner-up, and proposed SASRec, the first Transformer-based recommendation method.
 
-    - image_path: /assets/images/genaiper2024/Rashmi.webp
+    - image_path: /assets/images/GenAIRecP2024/Rashmi.webp
       alt: "Rashmi Gangadharaiah"
       excerpt: >
         **Rashmi Gangadharaiah**<br>
@@ -115,7 +115,7 @@ organizers:
       bio: >
         Dr. Rashmi Gangadharaiah is a Principal Machine Learning scientist in AWS AI, Amazon. She currently works in the area of Conversational AI, focused on task-oriented dialog systems. She has previously worked on applications in the areas of healthcare analytics, question answering, information retrieval - especially from social media, machine translation and speech science. She was previously a Research Staff Member at IBM Research where she worked on knowledge discovery, drug safety and interactive dialog systems in customer support settings. She was also a postdoctoral scholar at UCSD where she worked with several infectious disease doctors to build an interactive decision support system for differential diagnosis. Dr. Gangadharaiah earned her PhD in information technology, artificial intelligence, and machine learning from Carnegie Mellon University. She has experience organizing workshops (NLP4MC at ACL'20, NLP4MC at NAACL'21) and Industry Tracks (NAACL'22 Industry Track Chair) at top-tier NLP/ML conferences.
 
-    - image_path: /assets/images/genaiper2024/Hamed.jpg
+    - image_path: /assets/images/GenAIRecP2024/Hamed.jpg
       alt: "Hamed Zamani"
       excerpt: >
         **Hamed Zamani**<br>
@@ -123,7 +123,7 @@ organizers:
       bio: >
         Hamed Zamani is an Assistant Professor at the University of Massachusetts Amherst, where he also serves as the Associate Director of the Center for Intelligent Information Retrieval (CIIR), one of the top academic research labs in Information Retrieval worldwide. Prior to UMass, he was a Researcher at Microsoft working on search and recommendation problems. His research focuses on designing and evaluating (interactive) information access systems, including search engines, recommender systems, and question answering. His work has led to over 85 refereed publications in the field and has led to pioneering work on LLM personalization. He is a recipient of the NSF CAREER Award, ACM SIGIR Early Career Excellence in Research and Community Engagement awards, and Amazon Research Award. He is an Associate Editor of the ACM Transactions on Information Systems (TOIS), has organized multiple workshops at the SIGIR, RecSys, WSDM, and WWW conferences, and served as a PC Chair at SIGIR 2022 (Short Papers)
 
-    - image_path: /assets/images/genaiper2024/Julian.jpg
+    - image_path: /assets/images/GenAIRecP2024/Julian.jpg
       alt: "Julian McAuley"
       excerpt: >
         **Julian McAuley**<br>
@@ -131,7 +131,7 @@ organizers:
       bio: >
         Julian McAuley has been a professor in the Computer Science Department at the University of California, San Diego since 2014. Previously he was a postdoctoral scholar at Stanford University after receiving his PhD from the Australian National University in 2011. His research is concerned with developing predictive models of human behavior using large volumes of online activity data. He has organized a large number of workshops, including workshops on recommendation, e-commerce, and natural language processing.
 
-    - image_path: /assets/images/genaiper2024/GeorgeKarypis.png
+    - image_path: /assets/images/GenAIRecP2024/GeorgeKarypis.png
       alt: "George Karypis"
       excerpt: >
         **George Karypis**<br>
@@ -163,7 +163,7 @@ Personalization is key in understanding user behavior and has been a main focus 
 However, the use of generative models and user-generated text for personalized systems and recommendation is relatively new and has shown some promising results. This workshop is designed to bridge the research gap in these fields and explore personalized applications and recommender systems. We aim to fully leverage generative models to develop AI systems that are not only accurate but also focused on meeting individual user needs. Building upon the momentum of previous successful forums, this workshop seeks to engage a diverse audience from academia and industry, fostering a dialogue that incorporates fresh insights from key stakeholders in the field. 
 
 # Call for papers
-We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to those mentioned in [CFP](https://genai-personalization.github.io/genaiper2024/call-for-papers). Papers can be submitted at [OpenReview](https://openreview.net/group?id=KDD.org/2024/Workshop/GenAIRecP).
+We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to those mentioned in [CFP](https://genai-personalization.github.io/GenAIRecP2024/call-for-papers). Papers can be submitted at [OpenReview](https://openreview.net/group?id=KDD.org/2024/Workshop/GenAIRecP).
 
 ## Information for the day of the workshop
 
