@@ -58,6 +58,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 ### Invited speakers:
 - Ed Chi, Google DeepMind
 - Dietmar Jannach, University of Klagenfurt
+- Xiao-Ming Wu, The Hong Kong Polytechnic University
 - Dawen Liang, Netflix
 
   
