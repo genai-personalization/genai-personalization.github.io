@@ -55,6 +55,21 @@ keynote:
 
       spaces: true
 
+    - image_path: /assets/images/GenAIRecP2024/Xiao.jpg
+      alt: "Xiao-Ming Wu"
+      title: "Xiao-Ming Wu"
+      excerpt: |
+        ***Xiao-Ming Wu*** <br>
+        **Title of the talk: TBD**
+
+      abstract: >
+        Abstract.
+      
+      bio: >
+        Dr Wu received her PhD in Electrical Engineering from Columbia University with her dissertation titled “Learning on Graphs with Partially Absorbing Random Walks: Theory and Practice”. She received her bachelor degree in Applied Mathematics and master degree in Computer Science, both from Peking University, and her MPhil degree in Information Engineering from the Chinese University of Hong Kong. Her research interests are in the broad areas of machine learning, pattern recognition, and data mining, with a particular focus on graph algorithms and their applications. She has strong interests in both fundamental and applied research, and regularly publishes in prestigious venues such as NIPS and CVPR. Her thesis research has contributed to theoretical understanding of state-of-the-art methods and improved upon them significantly for various applications. Her approaches have been currently adopted in industry.
+
+      spaces: true
+
     - image_path: /assets/images/GenAIRecP2024/dawen.jpg
       alt: "Dawen Liang"
       title: "Dawen Liang"
