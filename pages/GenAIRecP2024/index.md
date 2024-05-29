@@ -178,7 +178,7 @@ Personalization is key in understanding user behavior and has been a main focus 
 However, the use of generative models and user-generated text for personalized systems and recommendation is relatively new and has shown some promising results. This workshop is designed to bridge the research gap in these fields and explore personalized applications and recommender systems. We aim to fully leverage generative models to develop AI systems that are not only accurate but also focused on meeting individual user needs. Building upon the momentum of previous successful forums, this workshop seeks to engage a diverse audience from academia and industry, fostering a dialogue that incorporates fresh insights from key stakeholders in the field. 
 
 # Call for papers
-We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to those mentioned in [CFP](https://genai-personalization.github.io/GenAIRecP2024/call-for-papers). Papers can be submitted at [OpenReview](https://openreview.net/group?id=KDD.org/2024/Workshop/GenAIRecP).
+**Deadline extended to 10 June 2024.** We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to those mentioned in [CFP](https://genai-personalization.github.io/GenAIRecP2024/call-for-papers). Papers can be submitted at [OpenReview](https://openreview.net/group?id=KDD.org/2024/Workshop/GenAIRecP).
 
 # Call for reviewers
 We are also looking for reviewers with relevant experience. Please fill this [form](https://forms.gle/UN2xFjarf18aTnRLA) if you are interested. 
