@@ -187,7 +187,9 @@ We are also looking for reviewers with relevant experience. Please fill this [fo
 
 **Workshop at KDD2024**    
 Submission deadline: ~~28 May 2024~~ 10 June 2024
+
 Author notifications: 28 June 2024
+
 Meeting: 25/26 August 2024
 
 # Schedule
