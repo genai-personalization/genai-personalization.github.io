@@ -46,7 +46,7 @@
   code: https://github.com/abc/xyz
   new_dataset: False
   
-- title: Active Users are Good Teachers: Behavior Sequence Infilling for Generative Recommendation
+- title: Active Users are Good Teachers, Behavior Sequence Infilling for Generative Recommendation
   authors: Qijiong Liu, Xiaoyu DONG, Quanyu Dai, Jieming Zhu, Zhenhua Dong, Xiao-Ming Wu
   abstract: > 
     The training of recommender systems relies on user behavior data, which are typically heavily unbalanced: active users, who generate more interactions, are likely to be favored in the recommendation process, while inactive users may receive unsatisfactory recommendations, resulting in low customer retention. To mitigate this problem, we propose beahvior sequence infilling (**BeSI**), a novel generative approach for sequential recommendation. BeSI seeks to fill the *trend gaps* in inactive user behavior sequences through the design of a trend gap meter to measure behavior coherence and a beahvior sequence infiller to generate smoother and richer behavior sequences. BeSI is model-agnostic and can be easily integrated with any existing sequential recommendation model. We will release data and code for other researchers to reproduce our results.
