@@ -70,22 +70,6 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/GenAIRecP2024/dawen.jpg
-      alt: "Dawen Liang"
-      title: "Dawen Liang"
-      excerpt: |
-        ***Netflix*** <br>
-        **Title of the talk: TBD**
-
-      abstract: >
-        Abstract.
-      
-      bio: >
-        Dawen Liang is a research scientist at Netflix, working on core personalization algorithms. His research interests include probabilistic models and (approximate) inference, causal inference, reinforcement learning, and their applications to recommender systems. He completed his Ph.D. in the Electrical Engineering Department at Columbia University, working on probabilistic latent variable models for analyzing music, speech, text, and user behavior data.
-
-      spaces: true
-
-
 panelists:
     - image_path: /assets/images/GenAIRecP2024/Ed.jpg
       alt: "Ed Chi"
@@ -122,7 +106,7 @@ organizers:
       bio: >
         Dr. Wang-Cheng Kang is a Staff Research Engineer at Google DeepMind, working on LLM/GenAI for RecSys and LLM data efficiency. He held a PhD in Computer Science from UC San Diego, and interned at Adobe Research, Pinterest Labs, and Google Brain, focusing on recommender systems. He received RecSys'17 Best Paper Runner-up, and proposed SASRec, the first Transformer-based recommendation method.
 
-    - image_path: /assets/images/GenAIRecP2024/Rashmi.webp
+    - image_path: /assets/images/GenAIRecP2024/Rashmi.jpeg
       alt: "Rashmi Gangadharaiah"
       excerpt: >
         **Rashmi Gangadharaiah**<br>
@@ -146,7 +130,7 @@ organizers:
       bio: >
         Julian McAuley has been a professor in the Computer Science Department at the University of California, San Diego since 2014. Previously he was a postdoctoral scholar at Stanford University after receiving his PhD from the Australian National University in 2011. His research is concerned with developing predictive models of human behavior using large volumes of online activity data. He has organized a large number of workshops, including workshops on recommendation, e-commerce, and natural language processing.
 
-    - image_path: /assets/images/GenAIRecP2024/GeorgeKarypis.png
+    - image_path: /assets/images/GenAIRecP2024/GeorgeKarypis.jpeg
       alt: "George Karypis"
       excerpt: >
         **George Karypis**<br>
