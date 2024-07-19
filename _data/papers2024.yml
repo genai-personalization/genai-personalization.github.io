@@ -45,7 +45,6 @@
   PDF: /assets/papers/GenAIRecP2024/Sharma.pdf
   code: https://github.com/abc/xyz
   new_dataset: False
-
   
 - title: Active Users are Good Teachers: Behavior Sequence Infilling for Generative Recommendation
   authors: Qijiong Liu, Xiaoyu DONG, Quanyu Dai, Jieming Zhu, Zhenhua Dong, Xiao-Ming Wu
@@ -55,7 +54,6 @@
   code: https://github.com/abc/xyz
   new_dataset: False
 
-  
 - title: Policy optimization of language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues
   authors: Jeremy Curuksu
   abstract: > 
