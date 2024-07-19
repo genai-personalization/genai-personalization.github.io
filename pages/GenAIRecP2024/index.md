@@ -164,9 +164,6 @@ However, the use of generative models and user-generated text for personalized s
 # Call for papers
 **Deadline extended to 10 June 2024.** We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to those mentioned in [CFP](https://genai-personalization.github.io/GenAIRecP2024/call-for-papers). Papers can be submitted at [OpenReview](https://openreview.net/group?id=KDD.org/2024/Workshop/GenAIRecP).
 
-# Call for reviewers
-We are also looking for reviewers with relevant experience. Please fill this [form](https://forms.gle/UN2xFjarf18aTnRLA) if you are interested. 
-
 ## Information for the day of the workshop
 
 **Workshop at KDD2024**    
