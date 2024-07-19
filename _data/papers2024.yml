@@ -5,7 +5,7 @@
 #   code: 
 #   new_dataset: True
 
-- title: SUBER: An RL Environment with Simulated Human Behavior for Recommender Systems
+- title: SUBER An RL Environment with Simulated Human Behavior for Recommender Systems
   authors: Nathan Corecco, Giorgio Piatti, Luca A Lanzendörfer, Flint Xiaofeng Fan, Roger Wattenhofer
   abstract: > 
     Reinforcement learning (RL) has gained popularity in the realm of recommender systems due to its ability to optimize long-term rewards and guide users in discovering relevant content. However, the successful implementation of RL in recommender systems is challenging because of several factors, including the limited availability of online data for training on-policy methods. This scarcity requires expensive human interaction for online model training. Furthermore, the development of effective evaluation frameworks that accurately reflect the quality of models remains a fundamental challenge in recommender systems. To address these challenges, we propose a comprehensive framework for synthetic environments that simulate human behavior by harnessing the capabilities of large language models (LLMs). We complement our framework with in-depth ablation studies and demonstrate its effectiveness with experiments on movie and book recommendations. By utilizing LLMs as synthetic users, this work introduces a modular and novel framework for training RL-based recommender systems. The software, including the RL environment, is publicly available.
@@ -13,7 +13,7 @@
   code: https://github.com/abc/xyz
   new_dataset: False
 
-- title: ECCR: Explainable and Coherent Complement Recommendation based on Large Language Models
+- title: ECCR Explainable and Coherent Complement Recommendation based on Large Language Models
   authors: Zelong Li, Yan Liang, Ming Wang, Sungro Yoon, Jiaying Shi, Xin Shen, Xiang He, Chenwei Zhang, Wenyi Wu, Hanbo Wang, Jin Li, Jim Chan, Yongfeng Zhang
   abstract: >
     A complementary item is an item that pairs well with another item when consumed together. In the context of e-commerce, providing recommendations for complementary items is essential for both customers and stores. Current models for suggesting complementary items often rely heavily on user behavior data, such as co-purchase relationships. However, just because two items are frequently bought together does not necessarily mean they are truly complementary. Relying solely on co-purchase data may not align perfectly with the goal of making meaningful complementary recommendations. In this paper, we introduce the concept of "coherent complement recommendation", where "coherent" implies that recommended item pairs are compatible and relevant. Our approach builds upon complementary item pairs, with a focus on ensuring that recommended items are well used together and contextually relevant. To enhance the explainability and coherence of our complement recommendations, we fine-tune the Large Language Model (LLM) with coherent complement recommendation and explanation generation tasks since LLM has strong natural language explanation generation ability and multi-task fine-tuning enhances task understanding. We have also devised an LLM-compatible method for compressing and quantizing user behavior information into language model tokens. Experimental results indicate that our model can provide more coherent complementary recommendations than existing state-of-the-art methods, and human evaluation validates that our approach achieves up to a 48% increase in the coherent rate of complement recommendations.
@@ -21,7 +21,7 @@
   code: https://github.com/abc/xyz
   new_dataset: False
 
-- title: HindRec: Aligning User Preferences for Recommendation via Hindsight Fine-tuning
+- title: HindRec Aligning User Preferences for Recommendation via Hindsight Fine-tuning
   authors: Yawen Zeng, huanwen wang, Lingyu Chen, Wenshu Chen, chenran, Hao Chen
   abstract: > 
     Given a user's historical interaction sequence, the recommendation model strives to understand the user's preferences and predict potential candidate items. Presently, the surging popularity of large language models (LLMs) has birthed an array of generative recommendation systems. However, the unfortunate drawback of merging LLMs into recommendation systems is that it cannot capture the true preferences of users (i.e., likes and dislikes). In this paper, we venture to combine alignment techniques in LLMs to align interest preferences. Specifically, this paper first proposes the application of hindsight fine-tuning in generative recommendation model—referred to as HindRec—which includes three components: prompt construction, recommendation via LLM and hindsight fine-tuning. By constructing training data in the form of hindsight feedback, we fine-tune a LLM via a three-stage strategy to fully utilize positive and negative instances to align user preferences. Wide-ranging experimental corroboration of our HindRec has yielded truly significant outcomes.
@@ -29,7 +29,7 @@
   code: https://github.com/abc/xyz
   new_dataset: False
   
-- title: EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs
+- title: EDGE-Rec Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs
   authors: Utkarsh Priyam, Hemit Shah, Edoardo Botta
   abstract: >
     Most recommender systems research focuses on binary historical user-item interaction encodings to predict future interactions. User features, item features, and interaction strengths remain largely under-utilized in this space or only indirectly utilized, despite proving largely effective in large-scale production recommendation systems. We propose a new attention mechanism, loosely based on the principles of collaborative filtering, called Row-Column Separable Attention $(\textbf{RCSA})$ to take advantage of real-valued interaction weights as well as user and item features directly. Building on this mechanism, we additionally propose a novel Graph Diffusion Transformer $(\textbf{GDiT})$ architecture which is trained to iteratively denoise the weighted interaction matrix of the user-item interaction graph directly. The weighted interaction matrix is built from the bipartite structure of the user-item interaction graph and corresponding edge weights derived from user-item rating interactions. Inspired by the recent progress in text-conditioned image generation, our method directly produces user-item rating predictions on the same scale as the original ratings by conditioning the denoising process on user and item features with a principled approach.
@@ -66,7 +66,7 @@
 
 
   
-- title: PERSOMA: PERsonalized SOft ProMpt Adapter Architecture for Personalized Language Prompting
+- title: PERSOMA PERsonalized SOft ProMpt Adapter Architecture for Personalized Language Prompting
   authors: Liam Hebert, Krishna Sayana, Ambarish Jash, Alexandros Karatzoglou, Sukhdeep Sodhi, Sumanth Doddapaneni, Yanli Cai, Dima Kuzmin
   abstract: > 
     Understanding the nuances of a user's extensive interaction history is key to building accurate and personalized natural language systems that can adapt to evolving user preferences. To address this, we introduce PERSOMA,  Personalized Soft Prompt Adapter architecture. Unlike previous personalized prompting methods for large language models, PERSOMA offers a novel approach to efficiently capture user history. It achieves this by resampling and compressing interactions as free form text into expressive soft prompt embeddings, building upon recent research utilizing embedding representations as input for LLMs. We rigorously validate our approach by evaluating various adapter architectures, first-stage sampling strategies, parameter-efficient tuning techniques like LoRA, and other personalization methods. Our results demonstrate PERSOMA's superior ability to handle large and complex user histories compared to existing embedding-based and text-prompt-based techniques.
