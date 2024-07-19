@@ -1,7 +1,7 @@
 ---
 permalink: /GenAIRecP2024
 title: "Workshop on Generative AI for Recommender Systems and Personalization <br>(2024)"
-excerpt: Monday Aug. 25 or 26, 2024, xxpm - yypm <br> TBD, TBD <br> Held in conjunction with <a href="https://kdd.org/kdd2024/">KDD 2024</a>
+excerpt: Monday Aug. 25, 2024, 2 pm - 6 pm <br> TBD, Centre de Convencions Internacional de Barcelona <br> Held in conjunction with <a href="https://kdd.org/kdd2024/">KDD 2024</a>
 browser-title: "GenAIRecP 2024"
 masthead-title: "GenAIRecP 2024"
 masthead-subtitle: "@KDD 2024"
@@ -192,17 +192,14 @@ We are also looking for reviewers with relevant experience. Please fill this [fo
 
 # Schedule
 
-We have a half-day program either from <u>8am to 12pm or 1pm to 5pm on Monday (Aug. 26)</u> at ***Location: TBD***. 
-
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
-| **8:00-8:10am**    | **Opening remarks** |
-| **8:10-8:50am**    | **[Keynote by TBD TBD](#TBD+TBD) (40 min)**: <br> XYZ |
-| **8:50-9:30am**    | **[Keynote by TBD TBD](#TBD+TBD) (40 min)**: <br> XYZ |
-| **9:30-10:30am**    | **Coffee Break/Poster Session** |
-| **10:30-11:00am**    | **[Keynote by TBD TBD](#TBD+TBD) (30 min)**: <br> XYZ |
-| **11:00-12:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
-| **12:00-12:10pm**    | **Closing Remarks** |
+| **2:00-2:10pm**    | **Opening remarks** |
+| **2:10-2:50pm**    | **[Keynote by Dietmar Jannach](#Dietmar+Jannach) (40 min)**: <br> Talk title TBD |
+| **2:50-3:30pm**    |  **Coffee Break/Poster Session** |
+| **3:30-4:10pm**    | **[Keynote by Xiao-Ming](#Xiao+Ming) (40 min)**: <br> Talk title TBD |
+| **4:15-4:55pm**    | **[Keynote by Ed Chi](#Ed+Chi) (40 min)**: <br> Talk title TBD |
+| **5:00-6:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
 
 <div class="small">
 {{ schedule | markdownify }}
