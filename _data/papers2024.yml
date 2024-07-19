@@ -10,25 +10,28 @@
   abstract: "Reinforcement learning (RL) has gained popularity in the realm of recommender systems due to its ability to optimize long-term rewards and guide users in discovering relevant content. However, the successful implementation of RL in recommender systems is challenging because of several factors, including the limited availability of online data for training on-policy methods. This scarcity requires expensive human interaction for online model training. Furthermore, the development of effective evaluation frameworks that accurately reflect the quality of models remains a fundamental challenge in recommender systems. To address these challenges, we propose a comprehensive framework for synthetic environments that simulate human behavior by harnessing the capabilities of large language models (LLMs). We complement our framework with in-depth ablation studies and demonstrate its effectiveness with experiments on movie and book recommendations. By utilizing LLMs as synthetic users, this work introduces a modular and novel framework for training RL-based recommender systems. The software, including the RL environment, is publicly available."
   PDF: /assets/papers/GenAIRecP2024/Corecco.pdf
   code: https://github.com/abc/xyz
-
+  new_dataset: False
 
 - title: "ECCR: Explainable and Coherent Complement Recommendation based on Large Language Models"
   authors: "Zelong Li, Yan Liang, Ming Wang, Sungro Yoon, Jiaying Shi, Xin Shen, Xiang He, Chenwei Zhang, Wenyi Wu, Hanbo Wang, Jin Li, Jim Chan, Yongfeng Zhang"
   abstract: "A complementary item is an item that pairs well with another item when consumed together. In the context of e-commerce, providing recommendations for complementary items is essential for both customers and stores. Current models for suggesting complementary items often rely heavily on user behavior data, such as co-purchase relationships. However, just because two items are frequently bought together does not necessarily mean they are truly complementary. Relying solely on co-purchase data may not align perfectly with the goal of making meaningful complementary recommendations. In this paper, we introduce the concept of "coherent complement recommendation", where "coherent" implies that recommended item pairs are compatible and relevant. Our approach builds upon complementary item pairs, with a focus on ensuring that recommended items are well used together and contextually relevant. To enhance the explainability and coherence of our complement recommendations, we fine-tune the Large Language Model (LLM) with coherent complement recommendation and explanation generation tasks since LLM has strong natural language explanation generation ability and multi-task fine-tuning enhances task understanding. We have also devised an LLM-compatible method for compressing and quantizing user behavior information into language model tokens. Experimental results indicate that our model can provide more coherent complementary recommendations than existing state-of-the-art methods, and human evaluation validates that our approach achieves up to a 48% increase in the coherent rate of complement recommendations."
   PDF: /assets/papers/GenAIRecP2024/Li.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
 - title: "HindRec: Aligning User Preferences for Recommendation via Hindsight Fine-tuning"
   authors: "Yawen Zeng, huanwen wang, Lingyu Chen, Wenshu Chen, chenran, Hao Chen"
   abstract: "Given a user's historical interaction sequence, the recommendation model strives to understand the user's preferences and predict potential candidate items. Presently, the surging popularity of large language models (LLMs) has birthed an array of generative recommendation systems. However, the unfortunate drawback of merging LLMs into recommendation systems is that it cannot capture the true preferences of users (i.e., likes and dislikes). In this paper, we venture to combine alignment techniques in LLMs to align interest preferences. Specifically, this paper first proposes the application of hindsight fine-tuning in generative recommendation model—referred to as HindRec—which includes three components: prompt construction, recommendation via LLM and hindsight fine-tuning. By constructing training data in the form of hindsight feedback, we fine-tune a LLM via a three-stage strategy to fully utilize positive and negative instances to align user preferences. Wide-ranging experimental corroboration of our HindRec has yielded truly significant outcomes."
   PDF: /assets/papers/GenAIRecP2024/Zeng.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
   
 - title: "EDGE-Rec: Efficient and Data-Guided Edge Diffusion For Recommender Systems Graphs"
   authors: "Utkarsh Priyam, Hemit Shah, Edoardo Botta "
   abstract: "Most recommender systems research focuses on binary historical user-item interaction encodings to predict future interactions. User features, item features, and interaction strengths remain largely under-utilized in this space or only indirectly utilized, despite proving largely effective in large-scale production recommendation systems. We propose a new attention mechanism, loosely based on the principles of collaborative filtering, called Row-Column Separable Attention $(\textbf{RCSA})$ to take advantage of real-valued interaction weights as well as user and item features directly. Building on this mechanism, we additionally propose a novel Graph Diffusion Transformer $(\textbf{GDiT})$ architecture which is trained to iteratively denoise the weighted interaction matrix of the user-item interaction graph directly. The weighted interaction matrix is built from the bipartite structure of the user-item interaction graph and corresponding edge weights derived from user-item rating interactions. Inspired by the recent progress in text-conditioned image generation, our method directly produces user-item rating predictions on the same scale as the original ratings by conditioning the denoising process on user and item features with a principled approach."
   PDF: /assets/papers/GenAIRecP2024/Priyam.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
   
 - title: "Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning"
@@ -36,6 +39,7 @@
   abstract: "Given an input query, a recommendation model is trained using user feedback data (e.g., click data) to output a ranked list of items. In real-world systems, besides accuracy, an important consideration for a new model is novelty of its top-k recommendations w.r.t. an existing deployed model. However, novelty of top-k items is a difficult goal to optimize a model for, since it involves a non-differentiable sorting operation on the model's predictions. Moreover, novel items, by definition, do not have any user feedback data. Given the semantic capabilities of large language models, we address these problems using a reinforcement learning (RL) formulation where large language models provide feedback for the novel items. However, given millions of candidate items, the sample complexity of a standard RL algorithm can be prohibitively high. To reduce sample complexity, we reduce the top-k list reward to a set of item-wise rewards and reformulate the state space to consist of  tuples such that the action space is reduced to a binary decision; and show that this reformulation results in a significantly lower complexity when the number of items is large.  We evaluate the proposed algorithm on improving novelty for a query-ad recommendation task on a large-scale search engine. Compared to supervised finetuning on recent  pairs, the proposed RL-based algorithm leads to significant novelty gains with minimal loss in recall. We get similar results on the ORCAS dataset for matching queries to web pages."
   PDF: /assets/papers/GenAIRecP2024/Sharma.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
   
 - title: "Active Users are Good Teachers: Behavior Sequence Infilling for Generative Recommendation"
@@ -43,6 +47,7 @@
   abstract: "The training of recommender systems relies on user behavior data, which are typically heavily unbalanced: active users, who generate more interactions, are likely to be favored in the recommendation process, while inactive users may receive unsatisfactory recommendations, resulting in low customer retention. To mitigate this problem, we propose beahvior sequence infilling (**BeSI**), a novel generative approach for sequential recommendation. BeSI seeks to fill the *trend gaps* in inactive user behavior sequences through the design of a trend gap meter to measure behavior coherence and a beahvior sequence infiller to generate smoother and richer behavior sequences. BeSI is model-agnostic and can be easily integrated with any existing sequential recommendation model. We will release data and code for other researchers to reproduce our results."
   PDF: /assets/papers/GenAIRecP2024/Liu.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
   
 - title: "Policy optimization of language models to align fidelity and efficiency of generative retrieval in multi-turn dialogues"
@@ -50,6 +55,7 @@
   abstract: "Reinforcement learning from human preferences can fine tune language models for helpfulness and safety, but does not directly address the fidelity and efficiency of reasoning agents in multi-turn dialogues. We propose a method to improve the validity, coherence and efficiency of reasoning agents by defining a reward model as a mapping between predefined queries and tools which can be applied to any custom orchestration environment. The reward model is used for policy optimization to fine tune the clarification fallback behavior and help the agent learn when best to ask for clarifications in multi-turn dialogues. This is demonstrated in several orchestration environments where after fine tuning with either proximal policy optimization or verbal reinforcement, the new policy systematically identifies the correct intents and tools in < 2 steps in over 99% of all sampled dialogues."
   PDF: /assets/papers/GenAIRecP2024/Curuksu.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
 
   
@@ -58,6 +64,7 @@
   abstract: "Understanding the nuances of a user's extensive interaction history is key to building accurate and personalized natural language systems that can adapt to evolving user preferences. To address this, we introduce PERSOMA,  Personalized Soft Prompt Adapter architecture. Unlike previous personalized prompting methods for large language models, PERSOMA offers a novel approach to efficiently capture user history. It achieves this by resampling and compressing interactions as free form text into expressive soft prompt embeddings, building upon recent research utilizing embedding representations as input for LLMs. We rigorously validate our approach by evaluating various adapter architectures, first-stage sampling strategies, parameter-efficient tuning techniques like LoRA, and other personalization methods. Our results demonstrate PERSOMA's superior ability to handle large and complex user histories compared to existing embedding-based and text-prompt-based techniques."
   PDF: /assets/papers/GenAIRecP2024/Hebert.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
 
   
@@ -66,6 +73,7 @@
   abstract: "Traditional recommendation systems are subject to a strong feedback loop by learning from and reinforcing past user-item interactions, which in turn limits the discovery of novel user interests. To address this, we introduce a hybrid hierarchical framework combining Large Language Models (LLMs) and classic recommendation models for user interest exploration. The framework controls the interfacing between the LLMs and the classic recommendation models through "interest clusters", the granularity of which can be explicitly determined by algorithm designers. It recommends the next novel interests by first representing "interest clusters" using language, and employs a fine-tuned LLM to generate novel interest descriptions that are strictly within these predefined clusters. At the low level, it grounds these generated interests to an item-level policy by restricting classic recommendation models, in this case a transformer-based sequence recommender to return items that fall within the novel clusters generated at the high level. We showcase the efficacy of this approach on an industrial-scale commercial platform serving billions of users. Live experiments show a significant increase in both exploration of novel interests and overall user enjoyment of the platform."
   PDF: /assets/papers/GenAIRecP2024/Wang.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
   
 - title: "Meta Knowledge for Retrieval Augmented Large Language Models"
@@ -73,6 +81,7 @@
   abstract: "Retrieval Augmented Generation (RAG) is a technique used to augment Large Language Models (LLMs) with contextually relevant, time-critical, or domain-specific information without altering the underlying model parameters. However, constructing RAG systems that can effectively synthesize information from large and diverse set of documents remains a significant challenge. We introduce a novel data-centric RAG workflow for LLMs, transforming the traditional retrieve-then-read system into a more advanced prepare- then-rewrite-then-retrieve-then-read framework, to achieve higher domain expert-level understanding of the knowledge base. Our methodology relies on generating metadata and synthetic Questions and Answers (QA) for each document, as well as introducing the new concept of Meta Knowledge Summary (MK Summary) for metadata-based clusters of documents. The proposed innovations enable personalized user-query augmentation and in-depth information retrieval across the knowledge base. Our research makes two significant contributions: using LLMs as evaluators and em- ploying new comparative performance metrics, we demonstrate that (1) using augmented queries with synthetic question matching significantly outperforms traditional RAG pipelines that rely on document chunking (𝑝 < 0.01), and (2) meta knowledge-augmented queries additionally significantly improve retrieval precision and recall, as well as the final answer’s breadth, depth, relevancy, and specificity. Our methodology is cost-effective, costing less than $20 per 2000 research papers using Claude 3 Haiku, and can be adapted with any fine-tuning of either the language or embedding models to further enhance the performance of end-to-end RAG pipelines."
   PDF: /assets/papers/GenAIRecP2024/Mombaerts.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
   
 - title: "Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives"
@@ -80,9 +89,11 @@
   abstract: "Recently, generative AI (GAI), with their emerging capabilities, have presented unique opportunities for augmenting and revolutionizing industrial recommender systems (Recsys). Despite growing research efforts at the intersection of these fields, the integration of GAI into industrial Recsys remains in its infancy, largely due to the intricate nature of modern industrial Recsys infrastructure, operations, and product sophistication. Drawing upon our experiences in successfully integrating GAI into several major social and e-commerce platforms, this survey aims to comprehensively examine the underlying system and AI foundations, solution frameworks, connections to key research advancements, as well as summarize the practical insights and challenges encountered in the endeavor to integrate GAI into industrial Recsys. As pioneering work in this domain, we hope outline the representative developments of relevant fields, shed lights on practical GAI adoptions in the industry, and motivate future research."
   PDF: /assets/papers/GenAIRecP2024/Xu.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
 
 - title: "Evaluation of Refined Conversational Recommendation Based on Reprompting ChatGPT with Feedback"
   authors: "Kyle Dylan Spurlock, Cagla Acun, Esin Saka, Olfa Nasraoui "
   abstract: "Recommendation algorithms seldom consider direct user input, resulting in superficial interaction between them despite efforts to include the user through conversation. Recently, Large Language Models (LLMs) have gained popularity across a number of domains for their extensive knowledge and transfer learning capabilities. For instance, ChatGPT boast impressive interactivity and an easy-to-use interface.  In this paper, we investigate the effectiveness of ChatGPT as a top-n conversational recommendation system. We build a rigorous evaluation pipeline to simulate how a user might realistically probe the model for recommendations: by first instructing and then reprompting with feedback to refine the recommendations. We further explore the effect of popularity bias in ChatGPT's recommendations, and compare its performance to baseline recommendation models. We find that reprompting with feedback is an effective strategy to improve recommendation relevancy, and that popularity bias can be mitigated through prompt engineering."
   PDF: /assets/papers/GenAIRecP2024/Spurlock.pdf
   code: https://github.com/abc/xyz
+  new_dataset: False
