@@ -45,10 +45,10 @@ keynote:
       title: "Dietmar Jannach"
       excerpt: |
         ***University of Klagenfurt, University of Bergen*** <br>
-        **Title of the talk: TBD**
+        **Title of the talk: Leveraging Large Language Models for Recommender Systems**
 
       abstract: >
-        Abstract.
+        Over the last two years, Large Language Models (LLMs) and AI assistants like ChatGPT have significantly impacted various research domains. Recommender systems are no exception, and a multitude of research works have been published recently that leverage the power of LLMs and other forms of generative AI for the development of next-generation recommender systems. In this talk, we will first review the latest survey works that aim to structure existing approaches to building LLM-based recommender systems. Then, we will discuss selected topics in more depth, including the use of LLMs for sequential recommendation problems. Furthermore, we will touch on questions regarding the evaluation of interactive LLM-generated recommendations and outline future directions toward multi-modal LLM-based recommendations.
       
       bio: >
         Dietmar Jannach is a Professor at the University of Klagenfurt in Austria. He has authored more than 150 publications in areas including recommender systems technology, knowledge-based systems development, constraint-based systems, semantic web applications and web mining, and software engineering. Among his publications, Jannach is a co-author of the book Recommender Systems: An Introduction. His current line of research is focused on the design and evaluation of machine learning algorithms for recommender systems and on the impact and value of recommender systems in practice.
@@ -60,10 +60,10 @@ keynote:
       title: "Xiao-Ming Wu"
       excerpt: |
         ***Xiao-Ming Wu*** <br>
-        **Title of the talk: TBD**
+        **Title of the talk: Advancing Next-Generation Recommendation Models with Large Language Models**
 
       abstract: >
-        Abstract.
+        In the rapidly evolving landscape of artificial intelligence, large language models (LLMs) have emerged as powerful tools for enhancing recommendation systems. This talk will explore the transformative potential of LLMs in developing advanced next-generation recommendation models. We will delve into state-of-the-art technologies for integrating LLMs into recommendation systems, highlighting our recent work on leveraging LLMs for content enhancement, semantic tokenization, and generative recommendation.
       
       bio: >
         Dr Wu received her PhD in Electrical Engineering from Columbia University with her dissertation titled “Learning on Graphs with Partially Absorbing Random Walks: Theory and Practice”. She received her bachelor degree in Applied Mathematics and master degree in Computer Science, both from Peking University, and her MPhil degree in Information Engineering from the Chinese University of Hong Kong. Her research interests are in the broad areas of machine learning, pattern recognition, and data mining, with a particular focus on graph algorithms and their applications. She has strong interests in both fundamental and applied research, and regularly publishes in prestigious venues such as NIPS and CVPR. Her thesis research has contributed to theoretical understanding of state-of-the-art methods and improved upon them significantly for various applications. Her approaches have been currently adopted in industry.
@@ -79,6 +79,22 @@ panelists:
       bio: >
         Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (LaMDA/Bard), neural recommendations, and reliable machine learning. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo
 
+    - image_path: /assets/images/GenAIRecP2024/Xiao.jpg
+      alt: "Xiao-Ming Wu"
+      excerpt: >
+        **Xiao-Ming Wu**<br>
+        The Hong Kong Polytechnic University
+      bio: >
+        Dr Wu received her PhD in Electrical Engineering from Columbia University with her dissertation titled “Learning on Graphs with Partially Absorbing Random Walks: Theory and Practice”. She received her bachelor degree in Applied Mathematics and master degree in Computer Science, both from Peking University, and her MPhil degree in Information Engineering from the Chinese University of Hong Kong. Her research interests are in the broad areas of machine learning, pattern recognition, and data mining, with a particular focus on graph algorithms and their applications. She has strong interests in both fundamental and applied research, and regularly publishes in prestigious venues such as NIPS and CVPR. Her thesis research has contributed to theoretical understanding of state-of-the-art methods and improved upon them significantly for various applications. Her approaches have been currently adopted in industry.
+
+    - image_path: /assets/images/GenAIRecP2024/caverlee.jpg
+      alt: "James Caverlee"
+      excerpt: >
+        **James Caverlee**<br>
+        Texas A&M University
+      bio: >
+        James Caverlee received his Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, he earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. His undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. James Caverlee joined the faculty at Texas A&M in 2007. He spent most of his sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. He has been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards. 
+        
 organizers:
 
     - image_path: /assets/images/GenAIRecP2024/Narges.jpg
