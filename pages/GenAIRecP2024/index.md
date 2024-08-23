@@ -59,7 +59,7 @@ keynote:
       alt: "Xiao-Ming Wu"
       title: "Xiao-Ming Wu"
       excerpt: |
-        ***Xiao-Ming Wu*** <br>
+        ***The Hong Kong Polytechnic University*** <br>
         **Title of the talk: Advancing Next-Generation Recommendation Models with Large Language Models**
 
       abstract: >
@@ -94,6 +94,14 @@ panelists:
         Texas A&M University
       bio: >
         James Caverlee received his Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, he earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. His undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. James Caverlee joined the faculty at Texas A&M in 2007. He spent most of his sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. He has been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards. 
+
+    - image_path: /assets/images/GenAIRecP2024/huzefa.jpeg
+      alt: "Huzefa Rangwala"
+      excerpt: >
+        **Huzefa Rangwala**<br>
+        AWS AI Labs
+      bio: >
+        At AWS AI/ML, Huzefa Rangawala spearheads a team of scientists and engineers, revolutionizing AWS services through advancements in graph machine learning, reinforcement learning, AutoML, low-code/no-code generative AI, and personalized AI solutions. His passion extends to transforming analytical sciences with the power of generative AI. He is a Professor of Computer Science and the Lawrence Cranberg Faculty Fellow at George Mason University, where he also served as interim Chair from 2019-2020. He is the recipient of the National Science Foundation (NSF) Career Award, the 2014 University-wide Teaching Award, Emerging Researcher/Creator/Scholar Award, the 2018 Undergraduate Research Mentor Award. In 2022, Huzefa co-chaired the ACM SIGKDD conference in Washington, DC. His research interests include structured learning, federated learning, and ML fairness inter-twinned with applying ML to problems in biology, biomedical engineering, and learning sciences. 
         
 organizers:
 
