@@ -95,7 +95,7 @@ panelists:
       bio: >
         James Caverlee received his Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, he earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. His undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. James Caverlee joined the faculty at Texas A&M in 2007. He spent most of his sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. He has been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards. 
 
-    - image_path: /assets/images/GenAIRecP2024/huzefa.jpeg
+    - image_path: /assets/images/GenAIRecP2024/huzefa.jpg
       alt: "Huzefa Rangwala"
       excerpt: >
         **Huzefa Rangwala**<br>
