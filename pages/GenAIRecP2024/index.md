@@ -200,11 +200,11 @@ However, the use of generative models and user-generated text for personalized s
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
 | **2:00-2:10pm**    | **Opening remarks** |
-| **2:10-2:50pm**    | **[Keynote by Dietmar Jannach](#Dietmar+Jannach) (40 min)**: <br> Talk title TBD |
+| **2:10-2:50pm**    | **[Keynote by Dietmar Jannach](#Dietmar+Jannach) (40 min)** |
 | **2:50-3:30pm**    |  **Coffee Break/Poster Session** |
-| **3:30-4:10pm**    | **[Keynote by Xiao-Ming](#Xiao+Ming) (40 min)**: <br> Talk title TBD |
-| **4:15-4:55pm**    | **[Keynote by Ed Chi](#Ed+Chi) (40 min)**: <br> Talk title TBD |
-| **5:00-6:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
+| **3:30-4:10pm**    | **[Keynote by Xiao-Ming](#Xiao+Ming) (40 min)**|
+| **4:15-4:55pm**    | **[Keynote by Ed Chi](#Ed+Chi) (40 min)** |
+| **5:00-6:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Panelists**: Ed Chi, James Caverlee, Huzefa Rangwala, Xiao-Ming Wu|
 
 <div class="small">
 {{ schedule | markdownify }}
