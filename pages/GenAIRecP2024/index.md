@@ -95,6 +95,14 @@ panelists:
       bio: >
         James Caverlee received his Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, he earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. His undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. James Caverlee joined the faculty at Texas A&M in 2007. He spent most of his sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. He has been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards. 
 
+    - image_path: /assets/images/GenAIRecP2024/yashar.png
+      alt: "Yashar Deldjoo"
+      excerpt: >
+        **Yashar Deldjoo**<br>
+        Polytechnic University of Bari, Italy
+      bio: >
+         Yashar Deldjoo is a "senior research scientist" in computer science, currently a tenure-track Assistant Professor at the Polytechnic University of Bari, Italy. He serves as a Senior PC for top conferences like SIGIR, CIKM, ECAI and WebConf, and is an outstanding reviewer for ACM Transactions on Recommender Systems (TORS) and an associate editor for ACM Computing Surveys (CSUR). He earned his Ph.D. with distinction (cum laude) in computer science from Politecnico di Milano and his M.Sc. in electrical engineering from Chalmers University of Technology. 
+        
     - image_path: /assets/images/GenAIRecP2024/huzefa.jpg
       alt: "Huzefa Rangwala"
       excerpt: >
