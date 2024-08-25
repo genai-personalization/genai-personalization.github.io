@@ -1,7 +1,7 @@
 ---
 permalink: /GenAIRecP2024
 title: "Workshop on Generative AI for Recommender Systems and Personalization <br>(2024)"
-excerpt: Sunday Aug. 25, 2024, 2 pm - 6 pm <br> TBD, Centre de Convencions Internacional de Barcelona <br> Held in conjunction with <a href="https://kdd.org/kdd2024/">KDD 2024</a>
+excerpt: Sunday Aug. 25, 2024, 2 pm - 6 pm <br> Room 114, Centre de Convencions Internacional de Barcelona <br> Held in conjunction with <a href="https://kdd.org/kdd2024/">KDD 2024</a>
 browser-title: "GenAIRecP 2024"
 masthead-title: "GenAIRecP 2024"
 masthead-subtitle: "@KDD 2024"
