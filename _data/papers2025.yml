@@ -1,0 +1,14 @@
+# - title: 
+#   authors: 
+#   abstract: 
+#   PDF: 
+#   code: 
+#   new_dataset: True
+
+- title: Placeholder Paper for GenAIRecP 2025
+  authors: Author One, Author Two, Author Three
+  abstract: > 
+    This is a placeholder abstract for the GenAIRecP 2025 workshop. Actual papers will be added after the submission and review process is complete.
+  PDF: /assets/papers/GenAIRecP2025/placeholder.pdf
+  code: https://github.com/example/placeholder
+  new_dataset: False 
