@@ -63,7 +63,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 - Narges Tabari, AWS AI Labs
 - Aniket Deshmukh, AWS AI Labs
 - Wang-Cheng Kang, Google DeepMind
+- Neil Shah, Snap
 - Julian McAuley, University of California San Diego
-- George Karypis, University of Minnesota
 - James Caverlee, Texas A&M University
-- Neil Shah, Affiliation TBD 
+- George Karypis, University of Minnesota
