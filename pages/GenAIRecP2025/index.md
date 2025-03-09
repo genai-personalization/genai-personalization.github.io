@@ -1,7 +1,7 @@
 ---
 permalink: /GenAIRecP2025
 title: "Second Workshop on Generative AI for Recommender Systems and Personalization <br>(2025)"
-excerpt: Tuesday Aug. 6, 2025, 2 pm - 6 pm <br> Toronto, Canada <br> Held in conjunction with <a href="https://kdd.org/kdd2025/">KDD 2025</a>
+excerpt: Tuesday Aug. 6, 2025, 9 am - 4 pm <br> Toronto, Canada <br> Held in conjunction with <a href="https://kdd.org/kdd2025/">KDD 2025</a>
 browser-title: "GenAIRecP 2025"
 masthead-title: "GenAIRecP 2025"
 masthead-subtitle: "@KDD 2025"
@@ -98,13 +98,13 @@ organizers:
       bio: >
         James Caverlee received his Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, he earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. His undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. James Caverlee joined the faculty at Texas A&M in 2007. He spent most of his sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. He has been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards.
         
-    - image_path: placeholder.jpg
+    - image_path: /assets/images/GenAIRecP2025/Neil_professional_snap_aug22.jpg
       alt: "Neil Shah"
       excerpt: >
         **Neil Shah**<br>
-        Affiliation TBD
+        Snap Research
       bio: >
-        Bio will be updated.
+        Dr. Neil Shah is a Principal Scientist at Snapchat. His research focuses on large-scale user representation learning, recommender systems and efficient ML. His work has resulted in 70+ refereed publications at top data mining and machine learning venues. He has also served as an organizer across multiple venues including KDD, WSDM, SDM, ICWSM, ASONAM and more, and received multiple best paper awards (KDD, CHI), departmental rising star awards (NCSU), and outstanding service and reviewer awards (NeurIPS, WSDM). He has also served as an organizer across multiple workshops and tutorials at KDD, AAAI, ICDM, CIKM and more.
         
 ---
 
