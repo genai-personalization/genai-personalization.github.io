@@ -74,6 +74,15 @@ organizers:
       bio: >
         Dr. Wang-Cheng Kang is a Staff Research Engineer at Google DeepMind, working on LLM/GenAI for RecSys and LLM data efficiency. He held a PhD in Computer Science from UC San Diego, and interned at Adobe Research, Pinterest Labs, and Google Brain, focusing on recommender systems. He received RecSys'17 Best Paper Runner-up, and proposed SASRec, the first Transformer-based recommendation method.
 
+    - image_path: /assets/images/GenAIRecP2025/Neil_professional_snap_aug22.jpg
+      alt: "Neil Shah"
+      excerpt: >
+        **Neil Shah**<br>
+        Snap Research
+      bio: >
+        Dr. Neil Shah is a Principal Scientist at Snapchat. His research focuses on large-scale user representation learning, recommender systems and efficient ML. His work has resulted in 70+ refereed publications at top data mining and machine learning venues. He has also served as an organizer across multiple venues including KDD, WSDM, SDM, ICWSM, ASONAM and more, and received multiple best paper awards (KDD, CHI), departmental rising star awards (NCSU), and outstanding service and reviewer awards (NeurIPS, WSDM). He has also served as an organizer across multiple workshops and tutorials at KDD, AAAI, ICDM, CIKM and more.
+
+
     - image_path: /assets/images/GenAIRecP2024/Julian.jpg
       alt: "Julian McAuley"
       excerpt: >
@@ -81,14 +90,6 @@ organizers:
         University of California, San Diego
       bio: >
         Julian McAuley has been a professor in the Computer Science Department at the University of California, San Diego since 2014. Previously he was a postdoctoral scholar at Stanford University after receiving his PhD from the Australian National University in 2011. His research is concerned with developing predictive models of human behavior using large volumes of online activity data. He has organized a large number of workshops, including workshops on recommendation, e-commerce, and natural language processing.
-
-    - image_path: /assets/images/GenAIRecP2024/GeorgeKarypis.jpeg
-      alt: "George Karypis"
-      excerpt: >
-        **George Karypis**<br>
-        University of Minnesota 
-      bio: >
-        Dr. George Karypis is a Senior Principal Scientist at AWS AI and a Distinguished McKnight University Professor and William Norris Chair in Large Scale Computing at the Department of Computer Science & Engineering at the University of Minnesota. His research interests span the areas of data mining, machine learning, high performance computing, information retrieval, collaborative filtering, bioinformatics, cheminformatics, and scientific computing. His research has resulted in the development of software libraries for serial and parallel graph partitioning (METIS and ParMETIS), hypergraph partitioning (hMETIS), for parallel Cholesky factorization (PSPASES), for collaborative filtering-based recommendation algorithms (SUGGEST), clustering high dimensional datasets (CLUTO), finding frequent patterns in diverse datasets (PAFI), and for protein secondary structure prediction (YASSPP). He has coauthored over 350 papers on these topics and two books ("Introduction to Protein Structure Prediction: Methods and Algorithms" (Wiley, 2010) and "Introduction to Parallel Computing" (Publ. Addison Wesley, 2003, 2nd edition)). He is serving on the program committees of many conferences and workshops on these topics, and on the editorial boards of the IEEE Transactions on Knowledge and Data Engineering, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, Social Network Analysis and Data Mining Journal, International Journal of Data Mining and Bioinformatics, the journal on Current Proteomics, Advances in Bioinformatics, and Biomedicine and Biotechnology. He is a Fellow of the IEEE.
 
     - image_path: /assets/images/GenAIRecP2024/caverlee.jpeg
       alt: "James Caverlee"
@@ -98,13 +99,13 @@ organizers:
       bio: >
         James Caverlee received his Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, he earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. His undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. James Caverlee joined the faculty at Texas A&M in 2007. He spent most of his sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. He has been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards.
         
-    - image_path: /assets/images/GenAIRecP2025/Neil_professional_snap_aug22.jpg
-      alt: "Neil Shah"
+    - image_path: /assets/images/GenAIRecP2024/GeorgeKarypis.jpeg
+      alt: "George Karypis"
       excerpt: >
-        **Neil Shah**<br>
-        Snap Research
+        **George Karypis**<br>
+        University of Minnesota 
       bio: >
-        Dr. Neil Shah is a Principal Scientist at Snapchat. His research focuses on large-scale user representation learning, recommender systems and efficient ML. His work has resulted in 70+ refereed publications at top data mining and machine learning venues. He has also served as an organizer across multiple venues including KDD, WSDM, SDM, ICWSM, ASONAM and more, and received multiple best paper awards (KDD, CHI), departmental rising star awards (NCSU), and outstanding service and reviewer awards (NeurIPS, WSDM). He has also served as an organizer across multiple workshops and tutorials at KDD, AAAI, ICDM, CIKM and more.
+        Dr. George Karypis is a Senior Principal Scientist at AWS AI and a Distinguished McKnight University Professor and William Norris Chair in Large Scale Computing at the Department of Computer Science & Engineering at the University of Minnesota. His research interests span the areas of data mining, machine learning, high performance computing, information retrieval, collaborative filtering, bioinformatics, cheminformatics, and scientific computing. His research has resulted in the development of software libraries for serial and parallel graph partitioning (METIS and ParMETIS), hypergraph partitioning (hMETIS), for parallel Cholesky factorization (PSPASES), for collaborative filtering-based recommendation algorithms (SUGGEST), clustering high dimensional datasets (CLUTO), finding frequent patterns in diverse datasets (PAFI), and for protein secondary structure prediction (YASSPP). He has coauthored over 350 papers on these topics and two books ("Introduction to Protein Structure Prediction: Methods and Algorithms" (Wiley, 2010) and "Introduction to Parallel Computing" (Publ. Addison Wesley, 2003, 2nd edition)). He is serving on the program committees of many conferences and workshops on these topics, and on the editorial boards of the IEEE Transactions on Knowledge and Data Engineering, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, Social Network Analysis and Data Mining Journal, International Journal of Data Mining and Bioinformatics, the journal on Current Proteomics, Advances in Bioinformatics, and Biomedicine and Biotechnology. He is a Fellow of the IEEE.
         
 ---
 
