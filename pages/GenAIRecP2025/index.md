@@ -1,7 +1,7 @@
 ---
 permalink: /GenAIRecP2025
 title: "Second Workshop on Generative AI for Recommender Systems and Personalization <br>(2025)"
-excerpt: Tuesday Aug. 6, 2025, 9 am - 4 pm <br> Toronto, Canada <br> Held in conjunction with <a href="https://kdd.org/kdd2025/">KDD 2025</a>
+excerpt: Wednesday Aug. 6, 2025, 9 am - 4 pm <br> Toronto, Canada <br> Held in conjunction with <a href="https://kdd.org/kdd2025/">KDD 2025</a>
 browser-title: "GenAIRecP 2025"
 masthead-title: "GenAIRecP 2025"
 masthead-subtitle: "@KDD 2025"
