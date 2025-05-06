@@ -34,7 +34,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 
 ### Important dates
 
-- Paper submission deadline: May 8th, 2025
+- Paper submission deadline: ~~May 8th, 2025~~ May 15th, 2025
 - Paper acceptance notification: June 8th, 2025
 - Workshop: August 6th, 2025
 
