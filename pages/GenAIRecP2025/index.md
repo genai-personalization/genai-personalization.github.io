@@ -136,7 +136,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 ## Information for the day of the workshop
 
 **Workshop at KDD2025**    
-- Submission deadline: May 8th, 2025
+- Submission deadline: ~~May 8th, 2025~~ May 15th, 2025
 - Author notifications: June 8th, 2025
 - Meeting: August 6th, 2025
 
