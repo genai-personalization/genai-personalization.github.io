@@ -144,12 +144,12 @@ We will welcome papers that leverage generative models with a goal of recommenda
 
 | Time (EDT) | Agenda |
 | ----------------- | ------------ |
-| **2:00-2:10pm**    | **Opening remarks** |
-| **2:10-2:50pm**    | **[Keynote by Ed Chi](#Ed+Chi) (40 min)** |
-| **2:50-3:30pm**    |  **Coffee Break/Poster Session** |
-| **3:30-4:10pm**    | **[Keynote TBD](#) (40 min)**|
-| **4:15-4:55pm**    | **[Keynote TBD](#) (40 min)** |
-| **5:00-6:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Panelists**: Ed Chi, TBD|
+| **1:00-1:10pm**    | **Opening remarks** |
+| **1:10-1:50pm**    | **[Keynote by Ed Chi](#Ed+Chi) (40 min)** |
+| **1:50-2:30pm**    |  **Coffee Break/Poster Session** |
+| **2:30-3:10pm**    | **[Keynote TBD](#) (40 min)**|
+| **3:15-3:55pm**    | **[Keynote TBD](#) (40 min)** |
+| **4:00-5:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Panelists**: Ed Chi, TBD|
 
 <div class="small">
 {{ schedule | markdownify }}
