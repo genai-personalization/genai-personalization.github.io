@@ -38,6 +38,19 @@ keynote:
       bio: >
         Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (from LaMDA leading to launching Bard/Gemini), and neural recommendation agents. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard/Gemini, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo.
 
+    - image_path: /assets/images/GenAIRecP2024/Ed.jpg
+      alt: "Ed Chi"
+      title: "Ed Chi"
+      excerpt: |
+        ***Google DeepMind*** <br>
+        **Title TBD**
+
+      abstract: >
+         Abstract will be updated closer to the workshop date.
+      
+      bio: >
+        Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (from LaMDA leading to launching Bard/Gemini), and neural recommendation agents. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard/Gemini, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo.
+        
       spaces: true
 
 panelists:
@@ -145,11 +158,12 @@ We will welcome papers that leverage generative models with a goal of recommenda
 | Time (EDT) | Agenda |
 | ----------------- | ------------ |
 | **1:00-1:10pm**    | **Opening remarks** |
-| **1:10-1:50pm**    | **[Keynote by Ed Chi](#Ed+Chi) (40 min)** |
-| **1:50-2:30pm**    |  **Coffee Break/Poster Session** |
-| **2:30-3:10pm**    | **[Keynote TBD](#) (40 min)**|
-| **3:15-3:55pm**    | **[Keynote TBD](#) (40 min)** |
-| **4:00-5:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Panelists**: Ed Chi, TBD|
+| **1:10-1:50pm**    | **[Keynote by Dr. Ed Chi](#Ed+Chi) (40 min)** |
+| **1:50-2:30pm**     | **[Keynote by Dr. Luna Dong](#Luna+Dong) (40 min)** |
+| **2:30-3:00pm**    | **[Poster Session] (30 min)** |
+| **3:00-3:30pm**    | **[Coffee Break + Poster Spillover] (30 min)** |
+| **3:30-4:10pm**    | **[Keynote by Dr. Dong Wang](#Dong+Wang) (40 min)** |
+| **4:10-5:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Panelists**: Ed Chi, TBD|
 
 <div class="small">
 {{ schedule | markdownify }}
