@@ -38,19 +38,32 @@ keynote:
       bio: >
         Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (from LaMDA leading to launching Bard/Gemini), and neural recommendation agents. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard/Gemini, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo.
 
-    - image_path: /assets/images/GenAIRecP2024/Ed.jpg
-      alt: "Ed Chi"
-      title: "Ed Chi"
+    - image_path: /assets/images/GenAIRecP2024/luna.jpg
+      alt: "Luna Dong"
+      title: "Luna Dong"
       excerpt: |
-        ***Google DeepMind*** <br>
+        ***Meta*** <br>
         **Title TBD**
 
       abstract: >
          Abstract will be updated closer to the workshop date.
       
       bio: >
-        Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (from LaMDA leading to launching Bard/Gemini), and neural recommendation agents. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard/Gemini, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo.
-        
+        Dr. Luna is a Principal Scientist at Meta Reality Labs, leading the ML efforts in building an intelligent personal assistant. We innovate and productionize techniques on contextual AI, multi-modal conversations, search, question answering, recommendation and personalization, knowledge collection and mining. Prior to joining Meta, she spent nearly a decade working on knowledge graphs at Amazon and Google. Before that, she spent another decade working on data integration and cleaning at AT&T Labs and at Univ. of Washington, where she received her Ph.D in Computer Science. She has been awarded VLDB Women in Database Research Award for contributions in “knowledge graph construction and data integration”, ACM Distinguished Member for contributions in “data and knowledge integration”, and the VLDB Early Career Research Contribution Award for “advancing the state of the art of knowledge fusion”.
+
+    - image_path: /assets/images/GenAIRecP2024/dong.jpg
+      alt: "Dong Wang"
+      title: "Dong Wang"
+      excerpt: |
+        ***University of Illinois Urbana-Champaign*** <br>
+        **Title TBD**
+
+      abstract: >
+         Abstract will be updated closer to the workshop date.
+      
+      bio: >
+        Dr. Wang is an associate professor with tenure in the School of Information Sciences and the Siebel School of Computing and Data Science (affiliated) at the University of Illinois Urbana-Champaign (UIUC). He received his Ph.D. degree in Computer Science at UIUC. He is also affiliated with the Informatics Program, the Information Trust Institute, National Center for Supercomputing Applications (NCSA), Carl R. Woese Institute for Genomic Biology (IGB), and the Center for Social and Behavioral Science (CSBS) at UIUC. His research interests mainly lie in the area of social (human-centric) sensing, intelligence and computing, human-centered AI, AI for social good, data quality, and big data analytics. Dr Wang and his team's work has been applied in a wide range of real-world applications such as social network analysis, crowdsourcing, disaster response, education, smart cities, synthetic biology, and AI for science. He has published over 200 technical papers in peer reviewed conferences and journals. His research on social sensing, intelligence and computing resulted in software tools that found applications in academia, industry, and government research labs. He authored two books: "Social Edge Computing: Empowering Human-Centric Edge Computing, Learning and Intelligence" published by Springer and "Social Sensing: Building Reliable Systems on Unreliable Data" published by Elsevier. He is the recipient of NSF CAREER Award, Google Faculty Research Award, Young Investigator Program (YIP) Award from the US Army Research Office, Wing Kai Cheng Fellowship from the University of Illinois, the Best Paper Award of 2022 ACM/IEEE International Conference on Advances in Social Networks Analysis and Mining (ASONAM), the Best Paper Award of 16th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS) and the Best Paper Honorable Mention of ACM CHI 2025 and IEEE SmartComp 2022.
+
       spaces: true
 
 panelists:
