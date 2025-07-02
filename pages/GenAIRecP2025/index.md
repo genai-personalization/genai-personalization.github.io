@@ -38,7 +38,7 @@ keynote:
       bio: >
         Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (from LaMDA leading to launching Bard/Gemini), and neural recommendation agents. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard/Gemini, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo.
 
-    - image_path: /assets/images/GenAIRecP2024/luna.jpg
+    - image_path: /assets/images/GenAIRecP2025/luna.jpg
       alt: "Luna Dong"
       title: "Luna Dong"
       excerpt: |
@@ -51,7 +51,7 @@ keynote:
       bio: >
         Dr. Luna is a Principal Scientist at Meta Reality Labs, leading the ML efforts in building an intelligent personal assistant. We innovate and productionize techniques on contextual AI, multi-modal conversations, search, question answering, recommendation and personalization, knowledge collection and mining. Prior to joining Meta, she spent nearly a decade working on knowledge graphs at Amazon and Google. Before that, she spent another decade working on data integration and cleaning at AT&T Labs and at Univ. of Washington, where she received her Ph.D in Computer Science. She has been awarded VLDB Women in Database Research Award for contributions in “knowledge graph construction and data integration”, ACM Distinguished Member for contributions in “data and knowledge integration”, and the VLDB Early Career Research Contribution Award for “advancing the state of the art of knowledge fusion”.
 
-    - image_path: /assets/images/GenAIRecP2024/dong.jpg
+    - image_path: /assets/images/GenAIRecP2025/dong.jpg
       alt: "Dong Wang"
       title: "Dong Wang"
       excerpt: |
