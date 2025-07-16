@@ -203,7 +203,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 | **2:30-3:00pm**    | **[Poster Session] (30 min)** |
 | **3:00-3:30pm**    | **[Coffee Break + Poster Spillover] (30 min)** |
 | **3:30-4:10pm**    | **[Keynote by Dr. Dong Wang](#Dong+Wang) (40 min)** |
-| **4:10-5:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Panelists**: Ed Chi, TBD|
+| **4:10-5:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Panelists**: Ed Chi, Dong Wang, Jundong Li, Neil Shah |
 
 <div class="small">
 {{ schedule | markdownify }}
