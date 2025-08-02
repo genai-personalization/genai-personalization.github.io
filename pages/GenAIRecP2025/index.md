@@ -44,13 +44,14 @@ keynote:
       title: "Luna Dong"
       excerpt: |
         ***Meta*** <br>
-        **Title TBD**
+        **From Sight to Insight: Visual Memory for Smarter Assistants**
 
       abstract: >
-         Abstract will be updated closer to the workshop date.
+         Imagine a personal assistant that, with user permission, persistently remembers moments from daily life—answering questions like “When and where did I see this lady?” or offering personalized suggestions like “You might enjoy The Little Prince—it relates to the statue you liked in Lyon.” Realizing this vision requires overcoming major challenges: capturing visual memories under hardware constraints (e.g., memory, battery, thermal limits, bandwidth), extracting meaningful personalization signals from noisy, task-agnostic visual histories, and supporting real-time question answering and recommendations under tight latency requirements. 
+         In this talk, we present our early work toward this goal. Pensieve, our memory-based QA system, improves accuracy by 11% over state-of-the-art multimodal RAG baselines. VisualLens infers user interests from casual photos, outperforming leading recommendation systems by 5–10%. We also share initial results on efficient, event-triggered memory capture and compression. Our work points to a broad landscape of research opportunities in building richer, more context-aware personal assistants capable of learning from and reasoning over users’ visual experiences.
       
       bio: >
-        Dr. Luna is a Principal Scientist at Meta Reality Labs, leading the ML efforts in building an intelligent personal assistant. We innovate and productionize techniques on contextual AI, multi-modal conversations, search, question answering, recommendation and personalization, knowledge collection and mining. Prior to joining Meta, she spent nearly a decade working on knowledge graphs at Amazon and Google. Before that, she spent another decade working on data integration and cleaning at AT&T Labs and at Univ. of Washington, where she received her Ph.D in Computer Science. She has been awarded VLDB Women in Database Research Award for contributions in “knowledge graph construction and data integration”, ACM Distinguished Member for contributions in “data and knowledge integration”, and the VLDB Early Career Research Contribution Award for “advancing the state of the art of knowledge fusion”.
+        Xin Luna Dong is a Principal Scientist at Meta Reality Labs, leading the ML efforts in building intelligent personal assistant for wearables devices. Before that, she has spent more than a decade building knowledge graphs, such as the Amazon Product Graph and the Google Knowledge Graph. She has co-authored books "Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases" and “Big Data Integration”. She was named an ACM Fellow and an IEEE Fellow for "significant contributions to knowledge graph construction and data integration", awarded the VLDB Women in Database Research Award and VLDB Early Career Research Contribution Award, and invited as an ACM Distinguished Speaker. She serves in the PVLDB advisory committee, was a member of the VLDB endowment, a PC co-chair for KDD’2022 ADS track, WSDM’2022, VLDB’2021, and Sigmod’2018.
 
       spaces: true
     - image_path: /assets/images/GenAIRecP2025/dong.jpg
