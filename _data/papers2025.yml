@@ -5,10 +5,77 @@
 #   code: 
 #   new_dataset: True
 
-- title: Placeholder Paper for GenAIRecP 2025
-  authors: Author One, Author Two, Author Three
+- title: C-TLSAN Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation
+  authors: Siqi Liang, Yudi Zhang, Yubo Wang
   abstract: > 
-    This is a placeholder abstract for the GenAIRecP 2025 workshop. Actual papers will be added after the submission and review process is complete.
-  PDF: /assets/papers/GenAIRecP2025/placeholder.pdf
-  code: https://github.com/example/placeholder
+    Sequential recommender systems aim to model users’ evolving preferences by capturing patterns in their historical interactions. Recent advances in this area have leveraged deep neural networks and attention mechanisms to effectively represent sequential behav- iors and time-sensitive interests. In this work, we propose C-TLSAN (Content-Enhanced Time-Aware Long- and Short-Term Attention Network), an extension of the TLSAN architecture that jointly models long- and short-term user preferences while incorporating semantic content associated with items—such as product descrip- tions. C-TLSAN enriches the recommendation pipeline by embedding textual content linked to users’ historical interactions directly into both long-term and short-term attention layers. This allows the model to learn from both behavioral patterns and rich item content, enhancing user and item representations across temporal dimen- sions. By fusing sequential signals with textual semantics, our ap- proach improves the expressiveness and personalization capacity of recommendation systems. We conduct extensive experiments on large-scale Amazon datasets, benchmarking C-TLSAN against state-of-the-art baselines, includ- ing recent sequential recommenders based on Large Language Mod- els (LLMs), which represent interaction history and predictions in text form. Empirical results demonstrate that C-TLSAN consistently outperforms strong baselines in next-item prediction tasks. Notably, it improves AUC by 1.66%, Recall@10 by 93.99%, and Precision@10 by 94.80% on average over the best-performing baseline (TLSAN) across 10 Amazon product categories. These results highlight the value of integrating content-aware enhancements into temporal modeling frameworks for sequential recommendation. 
+  PDF: /assets/papers/GenAIRecP2025/3_Liang.pdf
+  code: https://github.com/booml247/cTLSAN
+  new_dataset: False 
+
+
+- title: Not Just What, But When: Integrating Irregular Intervals to LLM for Sequential Recommendation
+  authors: Wei-Wei Du, Takuma Udagawa, Kei Tateno
+  abstract: > 
+    Time intervals between purchasing items are a crucial factor in se- quential recommendation tasks, whereas existing approaches focus on item sequences and often overlook by assuming the intervals between items are static. However, dynamic intervals serve as a dimension that describes user profiling on not only the history within a user but also different users with the same item history. In this work, we propose IntervalLLM, a novel framework that inte- grates interval information into LLM and incorporates the novel interval-infused attention to jointly consider information of items and intervals. Furthermore, unlike prior studies that address the cold-start scenario only from the perspectives of users and items, we introduce a new viewpoint: the interval perspective to serve as an additional metric for evaluating recommendation methods on the warm and cold scenarios. Extensive experiments on 3 benchmarks with both traditional- and LLM-based baselines demonstrate that our IntervalLLM achieves not only 4.4% improvements in average but also the best-performing warm and cold scenarios across all users, items, and the proposed interval perspectives. In addition, we observe that the cold scenario from the interval perspective experi- ences the most significant performance drop among all recommen- dation methods. This finding underscores the necessity of further research on interval-based cold challenges and our integration of in- terval information in the realm of sequential recommendation tasks.
+  PDF: /assets/papers/GenAIRecP2025/4_Du.pdf
+  code: https://github.com/sony/ds-research- code/tree/master/recsys25-IntervalLLM
+  new_dataset: False 
+
+
+- title: LLM-Enhanced Reranking for Complementary Product Recommendation
+  authors: Zekun Xu, Yudi Zhang
+  abstract: > 
+    Complementary product recommendation, which aims to suggest items that are used together to enhance customer value, is a crucial yet challenging task in e-commerce. While existing graph neural network (GNN) approaches have made significant progress in cap- turing complex product relationships, they often struggle with the accuracy-diversity tradeoff, particularly for long-tail items. This paper introduces a model-agnostic approach that leverages Large Language Models (LLMs) to enhance the reranking of complemen- tary product recommendations. Unlike previous works that use LLMs primarily for data preprocessing and graph augmentation, our method applies LLM-based prompting strategies directly to rerank candidate items retrieved from existing recommendation models, eliminating the need for model retraining. Through ex- tensive experiments on public datasets, we demonstrate that our approach effectively balances accuracy and diversity in complemen- tary product recommendations, with at least 50% lift in accuracy metrics and 2% lift in diversity metrics on average for the top rec- ommended items across datasets
+  PDF: /assets/papers/GenAIRecP2025/5_Xu.pdf
+  code: TBD
+  new_dataset: False 
+
+
+  - title: Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications
+  authors: Xinye Tang, Haijun Zhai, Chaitanya Belwal, Vineeth Thayanithi, Philip Baumann, Yogesh K Roy
+  abstract: > 
+    LLM-powered applications are highly susceptible to the quality of user prompts, and crafting high-quality prompts can often be challenging especially for domain-specific applications. This pa- per presents a novel dynamic context-aware prompt recommen- dation system for domain-specific AI applications. Our solution combines contextual query analysis, retrieval-augmented knowl- edge grounding, hierarchical skill organization, and adaptive skill ranking to generate relevant and actionable prompt suggestions. The system leverages behavioral telemetry and a two-stage hierar- chical reasoning process to dynamically select and rank relevant skills, and synthesizes prompts using both predefined and adap- tive templates enhanced with few-shot learning. Experiments on real-world datasets demonstrate that our approach achieves high usefulness and relevance, as validated by both automated and expert evaluations.
+  PDF: /assets/papers/GenAIRecP2025/6_Tang.pdf
+  code: TBD
+  new_dataset: False 
+
+  - title: Robustness of LLM-Initialized Bandits for Recommendation Under Noisy Priors
+  authors: Adam Bayley, Kevin H. Wilson, Yanshuai Cao, Raquel Aoki, Xiaodan Zhu
+  abstract: > 
+    Contextual bandits have proven effective for building personalized recommender systems, yet they suffer from the cold-start prob- lem when little user interaction data is available. Recent work has shown that Large Language Models (LLMs) can help address this by simulating user preferences to warm-start bandits—a method known as Contextual Bandits with LLM Initialization (CBLI). While CBLI reduces early regret, it is unclear how robust the approach is to inaccuracies in LLM-generated preferences. In this paper, we ex- tend the CBLI framework to systematically evaluate its sensitivity to noisy LLM priors. We inject both random and label-flipping noise into the synthetic training data and measure how these affect cu- mulative regret across three tasks generated from conjoint-survey datasets. Our results show that CBLI is robust to random corruption but exhibits clear breakdown thresholds under preference-flipping: warm-starting remains effective up to 30% corruption, loses its ad- vantage around 40%, and degrades performance beyond 50%. We further observe diminishing returns with larger synthetic datasets: beyond a point, more data can reinforce bias rather than improve performance under noisy conditions. These findings offer practical insights for deploying LLM-assisted decision systems in real-world recommendation scenarios
+  PDF: /assets/papers/GenAIRecP2025/7_Bayley.pdf
+  code: TBD
+  new_dataset: False 
+
+  - title: Towards Large-scale Generative Ranking 
+  authors: Yanhua Huang, Yuqi Chen, Xiong Cao, Rui Yang, Mingliang Qi, Yinghao Zhu, Qingchang Han, Yaowei Liu, Zhaoyu Liu, Xuefeng Yao, Yuting Jia, Leilei Ma, Yinqi Zhang,Taoyu Zhu, Liujie Zhang, Lei Chen, Weihang Chen, Min Zhu, Ruiwen Xu, Lei Zhang
+  abstract: > 
+    Generative recommendation has recently emerged as a promising paradigm in information retrieval. However, generative ranking systems are still understudied, particularly with respect to their effectiveness and feasibility in large-scale industrial settings. This paper investigates this topic at the ranking stage of Xiaohongshu’s Explore Feed, a recommender system that serves hundreds of mil- lions of users. Specifically, we first examine how generative ranking outperforms current industrial recommenders. Through theoretical and empirical analyses, we find that the primary improvement in ef- fectiveness stems from the generative architecture, rather than the training paradigm. To facilitate efficient deployment of generative ranking, we introduce GenRank, a novel generative architecture for ranking. We validate the effectiveness and efficiency of our solution through online A/B experiments. The results show that GenRank achieves significant improvements in user satisfaction with nearly equivalent computational resources compared to the existing production system
+  PDF: /assets/papers/GenAIRecP2025/9_Huang.pdf
+  code: TBD
+  new_dataset: False 
+
+  - title: Enhancing Text Classification with a Novel Multi-Agent Collaboration Framework Leveraging BERT
+  authors: Hediyeh Baban, Sai Abhishek Pidaparthi, Sichen Lu, Aashutosh Nema, Samaksh Gulati
+  abstract: > 
+      We present a multi-agent collaboration framework that enhances text classification by dynamically routing low-confidence BERT pre- dictions to specialized agents—Lexical, Contextual, Logic, Consen- sus, and Explainability. This escalation mechanism enables deeper analysis and consensus-driven decisions. Across four benchmark datasets, our system improves classification accuracy by up to 5.5% over standard BERT, offering a scalable and interpretable solution for robust NLP.
+  PDF: /assets/papers/GenAIRecP2025/10_Baban.pdf
+  code: TBD
+  new_dataset: False 
+
+  - title: Optimizing Retrieval-Augmented Generation with Multi-Agent Hybrid Retrieval
+  authors: Hediyeh Baban, Sai Abhishek Pidaparthi, Samaksh Gulati, Aashutosh Nema
+  abstract: > 
+    With the rapid growth of digital content and scientific literature, efficient information retrieval is increasingly vital for research au- tomation, document management, and question answering. Tradi- tional retrieval methods like BM25 and embedding-based search, though effective individually, often fall short on complex queries. We propose an Agentic AI workflow for Retrieval-Augmented Generation (RAG), integrating hybrid retrieval with multi-agent collaboration. Our system combines BM25 and semantic search, ensembles results via weighted cosine similarity, and applies con- textual reordering using large language models. The workflow is powered by LangGraph, a multi-agent frame- work enabling dynamic agent coordination for document ranking and filtering. Experiments show a 4×reduction in retrieval latency (43s to 11s) and a 7% improvement in relevance accuracy. We also analyze weight sensitivity and discuss scal
+  PDF: /assets/papers/GenAIRecP2025/11_Baban.pdf
+  code: TBD
+  new_dataset: False 
+
+  - title: End-to-End Personalization: Unifying Recommender Systems with Large Language Models
+  authors: Danial Ebrat, Tina Aminian, Sepideh Ahmadian, Luis Rueda
+  abstract: > 
+    Recommender systems are essential for guiding users through the vast and diverse landscape of digital content by delivering person- alized and relevant suggestions. However, improving both person- alization and interpretability remains a challenge, particularly in scenarios involving limited user feedback or heterogeneous item at- tributes. In this article, we propose a novel hybrid recommendation framework that combines Graph Attention Networks (GATs) with Large Language Models (LLMs) to address these limitations. LLMs are first used to enrich user and item representations by generating semantically meaningful profiles based on metadata such as titles, genres, and overviews. These enriched embeddings serve as initial node features in a user–movie bipartite graph, which is processed using a GAT-based collaborative filtering model. To enhance rank- ing accuracy, we introduce a hybrid loss function that combines Bayesian Personalized Ranking (BPR), cosine similarity, and robust negative sampling. Post-processing involves reranking the GAT- generated recommendations using the LLM, which also generates natural-language justifications to improve transparency. We evalu- ate our model on benchmark datasets, including MovieLens 100k and 1M, where it consistently outperforms strong baselines. Abla- tion studies confirm that LLM-based embeddings and the cosine similarity term significantly contribute to performance gains. This work demonstrates the potential of integrating LLMs to improve both the accuracy and interpretability of recommender systems.  
+  PDF: /assets/papers/GenAIRecP2025/12_Ebrat.pdf
+  code: TBD
   new_dataset: False 
