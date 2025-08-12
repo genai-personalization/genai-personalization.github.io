@@ -4,6 +4,7 @@
   PDF: "/assets/papers/GenAIRecP2025/2_Yaochan.pdf"
   code: "TBD"
   new_dataset: False
+  award: "Best Paper Award"
 
 - title: "C-TLSAN Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation"
   authors: "Siqi Liang, Yudi Zhang, Yubo Wang"

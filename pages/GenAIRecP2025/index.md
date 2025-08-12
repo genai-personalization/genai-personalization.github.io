@@ -221,7 +221,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 # Accepted Papers
 <ul>
 {% for pubitem in site.data.papers2025 %}
-    <li> {{ pubitem.title | markdownify | remove: '<p>' | remove: '</p>' | strip }} <br>
+    <li> {% if pubitem.award %} <span class="btn btn--success">{{ pubitem.award }}</span> {% endif %} {{ pubitem.title | markdownify | remove: '<p>' | remove: '</p>' | strip }} <br>
     <div class="small">
     <i> {{ pubitem.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }} </i> 
     </div>
