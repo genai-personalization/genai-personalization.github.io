@@ -85,9 +85,9 @@ organizers:
       alt: "Aniket Deshmukh"
       excerpt: >
         **Aniket Deshmukh**<br>
-        AWS AI Labs
+        Databricks
       bio: >
-        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+        Aniket is an AI researchet at Databricks. Aniket was an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
 
     - image_path: /assets/images/GenAIRecP2026/Wang.jpg
       alt: "Wang-Cheng Kang"
@@ -152,7 +152,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 ## Information for the day of the workshop
 
 **Workshop at WSDM 2026**    
-- Submission deadline: November 13, 2025
+- Submission deadline: November 21, 2025
 - Author notifications: December 18, 2025
 - Meeting: February 26, 2026
 

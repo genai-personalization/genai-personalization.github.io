@@ -16,9 +16,9 @@ header:
 
 We invite submissions to the Third Workshop on Generative AI for Recommender Systems and Personalization (GenAIRecP 2026), to be held in conjunction with [WSDM 2026](https://wsdm-conference.org/2026/) in Boise, Idaho, USA.
 
-We welcome papers that leverage generative models with a goal of recommendation and personalization on topics including but not limited to:
-- Generative AI for multimodal and sequential modeling in recommender systems
-- Personalized generative retrieval and recommendation models
+Our topics of interest include but are not limited to:
+- Generative AI for contextual and sequential modeling in recommender systems
+- Personalized generative retrieval, generative recommendation, search and novel applications
 - Instruction-tuned recommender systems
 - LLM-driven personalized dialogue systems
 - Personalized text and image generation
@@ -26,9 +26,11 @@ We welcome papers that leverage generative models with a goal of recommendation 
 - Fairness, explainability, and transparency in LLM-driven personalized and recommender systems
 - Efficiency and scalability of LLM-driven personalization and recommendation systems
 - Evaluation of LLM-driven personalization and recommendation systems
+- Agentic systems for recommendation and personalization use-cases
+- Deployment case studies
 
 ### Important dates
-- Paper submission deadline: November 13, 2025
+- Paper submission deadline: November 21, 2025
 - Paper acceptance notification: December 18, 2025
 - Workshop: February 26, 2026
 
@@ -50,7 +52,7 @@ We welcome papers that leverage generative models with a goal of recommendation 
 
 ### Organizers
 - Narges Tabari, AWS AI Labs
-- Aniket Deshmukh, AWS AI Labs
+- Aniket Deshmukh, Databricks
 - Wang-Cheng Kang, Google DeepMind
 - Neil Shah, Snap
 - Julian McAuley, University of California San Diego
