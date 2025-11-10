@@ -35,7 +35,7 @@ Our topics of interest include but are not limited to:
 - Workshop: February 26, 2026
 
 ### Submission Instructions:
-- Authors should submit papers with up to 5 pages excluding references and supplementary materials (submission link TBD).
+- Authors should submit papers with up to 5 pages excluding references and supplementary materials via [OpenReview](https://openreview.net/group?id=WDSM/2026/Workshop/GenAIRecP).
 - Submissions should follow WSDM formatting guidelines (link TBD).
 - Submissions should be fully anonymized for double-blind review.
 - Dual submission policy: This workshop welcomes ongoing and unpublished work but will also accept papers that are under review or have recently been accepted at other venues.

@@ -87,7 +87,7 @@ organizers:
         **Aniket Deshmukh**<br>
         Databricks
       bio: >
-        Aniket is an AI researchet at Databricks. Aniket was an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+        Aniket is an AI researcher at Databricks. Aniket was an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
 
     - image_path: /assets/images/GenAIRecP2026/Wang.jpg
       alt: "Wang-Cheng Kang"
@@ -147,7 +147,7 @@ Personalization is key in understanding user behavior and has been a main focus 
 However, the use of generative models and user-generated text for personalized systems and recommendation is relatively new and has shown some promising results. This workshop is designed to bridge the research gap in these fields and explore personalized applications and recommender systems. We aim to fully leverage generative models to develop AI systems that are not only accurate but also focused on meeting individual user needs. Building upon the momentum of previous successful forums, this workshop seeks to engage a diverse audience from academia and industry, fostering a dialogue that incorporates fresh insights from key stakeholders in the field. 
 
 # Call for papers
-We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to those mentioned in [CFP](/GenAIRecP2026/call-for-papers). 
+We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to those mentioned in [CFP](/GenAIRecP2026/call-for-papers). Papers can be submitted via [OpenReview](https://openreview.net/group?id=WDSM/2026/Workshop/GenAIRecP). 
 
 ## Information for the day of the workshop
 
