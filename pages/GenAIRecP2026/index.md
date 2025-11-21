@@ -152,7 +152,7 @@ We will welcome papers that leverage generative models with a goal of recommenda
 ## Information for the day of the workshop
 
 **Workshop at WSDM 2026**    
-- Submission deadline: November 21, 2025
+- Submission deadline: ~~November 21, 2025~~ November 28, 2025
 - Author notifications: December 18, 2025
 - Meeting: February 26, 2026
 
