@@ -30,7 +30,7 @@ Our topics of interest include but are not limited to:
 - Deployment case studies
 
 ### Important dates
-- Paper submission deadline: November 21, 2025
+- Paper submission deadline: ~~November 21, 2025~~ November 28, 2025
 - Paper acceptance notification: December 18, 2025
 - Workshop: February 26, 2026
 
