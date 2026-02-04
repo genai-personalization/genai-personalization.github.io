@@ -19,58 +19,88 @@ navigation:
     url: /GenAIRecP2026#schedule
   - title: "Keynotes"
     url: /GenAIRecP2026#keynote-speakers
-  - title: "Panelists"
-    url: /GenAIRecP2026#panelists
+  # - title: "Panelists"
+  #   url: /GenAIRecP2026#panelists
   - title: "Organization"
     url: /GenAIRecP2026#organizers
 
-keynote: 
-    - image_path: /assets/images/GenAIBanner.PNG
-      alt: "Keynote Speaker 1"
-      title: "TBD"
+keynote:
+    - image_path: /assets/images/GenAIRecP2026/chirag.png
+      alt: "Chirag Shah"
+      title: "Chirag Shah"
       excerpt: |
-        ***TBD Affiliation*** <br>
+        ***University of Washington*** <br>
         **Talk title TBD**
 
       abstract: >
          Abstract will be updated closer to the workshop date.
-      
+
       bio: >
-        Bio will be updated closer to the workshop date.
+        Chirag Shah is Professor in Information School (iSchool) at University of Washington (UW) in Seattle. He is also Adjunct Professor with Paul G. Allen School of Computer Science & Engineering as well as Human Centered Design & Engineering (HCDE). He is the Founding Director for InfoSeeking Lab and Founding Co-Director of Center for Responsibility in AI Systems & Experiences (RAISE). He works in the area of intelligent information access systems, focusing on task-oriented search, proactive recommendations, and conversational systems. He is also engaged in work with generative AI, specifically in information access and image classification problems. In addition to creating AI-driven information access systems that provide more personalized reactive and proactive recommendations, he is also focusing on making such systems transparent, fair, and free of biases. Shah is a Distinguished Member of Association of Computing Machinery (ACM) as well as Association for Information Science & Technology (ASIS&T). He is the recipient of 2019 Microsoft BCS/IRSG Karen Spärck Jones Award. He has published nearly 200 peer-reviewed articles and authored seven books, including text books on data science and machine learning.
 
       spaces: true
 
-    - image_path: /assets/images/GenAIBanner.PNG
-      alt: "Keynote Speaker 2"
-      title: "TBD"
+    - image_path: /assets/images/GenAIRecP2026/Yinglong.jpg
+      alt: "Yinglong Xia"
+      title: "Yinglong Xia"
       excerpt: |
-        ***TBD Affiliation*** <br>
+        ***Meta AI*** <br>
         **Talk title TBD**
 
       abstract: >
          Abstract will be updated closer to the workshop date.
-      
+
       bio: >
-        Bio will be updated closer to the workshop date.
+        Yinglong Xia is an applied research scientist at Facebook AI (applied machine learning), working on graph-based platform and application technologies. He was a chief architect at Futurewei Technologies (a.k.a. Huawei Research America), leading a global team working on AI platform products. He also participates in technical planning. Prior to that, he was a technical leader and research staff member at IBM Watson Research Center, exploring graph database and reasoning framework, creating IBM System G platform from scratch to support a behavioral anomaly detection project (ADAMS), and a social data monitoring project (SMISC), etc. He has multi-disciplinary expertise, ranging from machine learning to big data, and high performance computing (HPC), due to his diverse education background. He has solid experience in both industrial research and product development, already published 60+ technical papers and filed 30+ patents. He was a CCC/CRA Computing Innovation Fellow (CIFellow) and a board member of the Linked Data Benchmark Council (LDBC). Yinglong is active in professional communities, serving as a technical advisory committee (TAC) member in Linux Foundation, a board member of LDBC, and an associate editor of IEEE trans. Knowledge and Data Engineering (TKDE), and IEEE trans. Big Data (TBD).
 
       spaces: true
 
-panelists:
-    - image_path: /assets/images/GenAIBanner.PNG
-      alt: "Panelist 1"
-      excerpt: >
-        **TBD**<br>
-        TBD Affiliation
-      bio: >
-        Bio will be updated closer to the workshop date.
+    - image_path: /assets/images/GenAIRecP2026/Meng.jpg
+      alt: "Meng Jiang"
+      title: "Meng Jiang"
+      excerpt: |
+        ***University of Notre Dame*** <br>
+        **Talk title TBD**
 
-    - image_path: /assets/images/GenAIBanner.PNG
-      alt: "Panelist 2"
-      excerpt: >
-        **TBD**<br>
-        TBD Affiliation
+      abstract: >
+         Abstract will be updated closer to the workshop date.
+
       bio: >
-        Bio will be updated closer to the workshop date.
+        Meng Jiang's research fields are data mining, machine learning, and natural language processing. Jiang earned a BE in computer science and technology from Tsinghua University in 2010, followed by a PhD from the same institution in 2015. His research focuses on Computational Behavior Modeling for applications such as intelligent assistance, recommender systems, and question answering, and his most recent projects have examined knowledge-augmented NLP, instructed LLM, personalized LLM, LLM machine unlearning, graph neural networks, graph data augmentation, and graph diffusion models. Many of his projects include collaborations with subject matter and domain experts to improve technology outcomes and address ethical challenges by design. Jiang has published award-winning articles in numerous top computer science venues and has received numerous grants and honors, including the prestigious NSF CAREER award.
+
+      spaces: true
+
+    - image_path: /assets/images/GenAIRecP2026/nathan.jpg
+      alt: "Nathan Kallus"
+      title: "Nathan Kallus"
+      excerpt: |
+        ***Cornell Tech*** <br>
+        **Talk title TBD**
+
+      abstract: >
+         Abstract will be updated closer to the workshop date.
+
+      bio: >
+        Nathan Kallus is an associate professor of operations research and information engineering at Cornell Tech and Cornell Engineering. Kallus's research interests include causal inference, especially when combined with machine learning; the statistics of optimization under uncertainty; sequential and dynamic decision making; and algorithmic fairness. He is the author of the book "Applied Causal Inference Powered by ML and AI." Kallus holds a Ph.D. in operations research from the Massachusetts Institute of Technology and a B.A. in mathematics and a B.S. in computer science from the University of California, Berkeley. Before coming to Cornell, Kallus was a visiting scholar at the University of Southern California's Department of Data Sciences and Operations. He was also a postdoctoral associate at MIT's Operations Research and Statistics group.
+
+      spaces: true
+
+# panelists:
+#     - image_path: /assets/images/GenAIBanner.PNG
+#       alt: "Panelist 1"
+#       excerpt: >
+#         **TBD**<br>
+#         TBD Affiliation
+#       bio: >
+#         Bio will be updated closer to the workshop date.
+#
+#     - image_path: /assets/images/GenAIBanner.PNG
+#       alt: "Panelist 2"
+#       excerpt: >
+#         **TBD**<br>
+#         TBD Affiliation
+#       bio: >
+#         Bio will be updated closer to the workshop date.
 
 organizers:
     - image_path: /assets/images/GenAIRecP2026/Narges.jpg
@@ -158,34 +188,31 @@ We will welcome papers that leverage generative models with a goal of recommenda
 
 # Schedule
 
-| Time | Event | Speaker |
-| --- | --- | --- |
-| **9:00 - 9:10am** | Opening Remarks | Neil Shah |
-| **9:10 - 9:50am** | Keynote 1 | Chirag Shah |
-| **9:50 - 10:30am** | Keynote 2 | Yinglong Xia |
-| **10:30 - 11:00am** | Coffee Break | |
-| **11:00 - 11:45am** | **Oral Session 1** | |
-| | InsertRank: LLMs can Reason over BM25 Scores to Improve Listwise Reranking | |
-| | Selective LLM-Guided Regularization for Enhancing Recommendation Models | |
-| | AGP: Auto-Guided Prompt Refinement for Personalized Reranking in Recommender Systems | |
-| **11:45am - 12:30pm** | Keynote 3 | Meng Jiang |
-| **12:30 - 1:45pm** | Lunch | |
-| **1:45 - 2:30pm** | Keynote 4 | Nathan Kallus |
-| **2:30 - 3:30pm** | **Oral Session 2** | |
-| | Joint Evaluation: A Human+LLM+Multi-Agents Collaborative Framework for Comprehensive AI Safety | |
-| | Multi-Agent Video Recommenders: Evolution, Patterns and Open Challenges | |
-| | Large-Scale Retrieval for the LinkedIn Feed using Causal Language Models | |
-| | Agentic Orchestration for Adaptive Educational Recommendations: A Multi-Agent LLM Framework for Personalized Learning Pathways | |
-| **3:30 - 4:00pm** | Coffee Break | |
-| **4:00 - 4:20pm** | Invited Talk 1: Sequential Data Augmentation for Generative Recommendation | Liam Collins |
-| **4:20 - 4:40pm** | Invited Talk 2: Continuous Time Discrete-space Diffusion Model for Recommendation | Chengyi Liu |
-| **4:40 - 4:50pm** | Closing Remarks | |
+| Time (MST) | Agenda |
+| ----------------- | ------------ |
+| **9:00 - 9:10am** | **Opening remarks** |
+| **9:10 - 9:50am** | **[Keynote by Dr. Chirag Shah](#Chirag+Shah) (40 min)** |
+| **9:50 - 10:30am** | **[Keynote by Dr. Yinglong Xia](#Yinglong+Xia) (40 min)** |
+| **10:30 - 11:00am** | **Coffee Break (30 min)** |
+| **11:00 - 11:45am** | **Oral Session 1 (45 min)** - Paper Authors<br>- InsertRank: LLMs can Reason over BM25 Scores to Improve Listwise Reranking<br>- Selective LLM-Guided Regularization for Enhancing Recommendation Models<br>- AGP: Auto-Guided Prompt Refinement for Personalized Reranking in Recommender Systems |
+| **11:45am - 12:30pm** | **[Keynote by Dr. Meng Jiang](#Meng+Jiang) (45 min)** |
+| **12:30 - 1:45pm** | **Lunch (75 min)** |
+| **1:45 - 2:30pm** | **[Keynote by Dr. Nathan Kallus](#Nathan+Kallus) (45 min)** |
+| **2:30 - 3:30pm** | **Oral Session 2 (60 min)** - Paper Authors<br>- Joint Evaluation: A Human+LLM+Multi-Agents Collaborative Framework for Comprehensive AI Safety<br>- Multi-Agent Video Recommenders: Evolution, Patterns and Open Challenges<br>- Large-Scale Retrieval for the LinkedIn Feed using Causal Language Models<br>- Agentic Orchestration for Adaptive Educational Recommendations: A Multi-Agent LLM Framework for Personalized Learning Pathways |
+| **3:30 - 4:00pm** | **Coffee Break (30 min)** |
+| **4:00 - 4:20pm** | **[Invited Talk by Liam Collins] (20 min)**<br>Sequential Data Augmentation for Generative Recommendation |
+| **4:20 - 4:40pm** | **[Invited Talk by Chengyi Liu] (20 min)**<br>Continuous Time Discrete-space Diffusion Model for Recommendation |
+| **4:40 - 4:50pm** | **Closing remarks** |
+
+<div class="small">
+{{ schedule | markdownify }}
+</div>
 
 # Keynote Speakers
 {% include feature_row id="keynote" type="left" %}
 
-# Panelists
-{% include feature_row id="panelists" %}
+<!-- # Panelists
+{% include feature_row id="panelists" %} -->
 
 # Accepted Papers
 <ul>
