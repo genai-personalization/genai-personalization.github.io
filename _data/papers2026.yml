@@ -1,6 +1,34 @@
-- title: demo paper
-  authors: demo authors
-  abstract: 
-  PDF: 
-  code: 
+- title: "InsertRank LLMs can Reason over BM25 Scores to Improve Listwise Reranking"
+  authors: "Rahul Seetharaman"
+  abstract: "Large Language Models LLMs have demonstrated significant strides across various information retrieval tasks particularly as rerankers owing to their strong generalization and knowledge transfer capabilities acquired from extensive pretraining. In parallel the rise of LLM based chat interfaces has raised user expectations encouraging users to pose more complex queries that necessitate retrieval by reasoning over documents rather than through simple keyword matching or semantic similarity. While some recent efforts have exploited reasoning abilities of LLMs for reranking such queries considerable potential for improvement remains. In that regards we introduce InsertRank an LLM based reranker that leverages lexical signals like BM25 scores during reranking to further improve retrieval performance. InsertRank demonstrates improved retrieval effectiveness on BRIGHT a reasoning benchmark spanning 12 diverse domains and R2MED a specialized medical reasoning retrieval benchmark spanning 8 different tasks. We conduct an exhaustive evaluation and several ablation studies and demonstrate that InsertRank consistently improves retrieval effectiveness across multiple families of LLMs including GPT Gemini and Deepseek models."
+  PDF: "/assets/papers/GenAIRecP2026/RahulSeetharaman_InsertRank_LLMs_Can_Reason_Over_BM25.pdf"
+  code: ""
+  new_dataset: False
+
+- title: "Selective LLM Guided Regularization for Enhancing Recommendation Models"
+  authors: "Zhan Shi, Shanglin Yang"
+  abstract: "Large language models LLMs provide rich semantic priors and strong reasoning capabilities making them promising auxiliary signals for recommendation. However prevailing approaches either deploy LLMs as standalone recommenders or apply global knowledge distillation both of which suffer from inherent drawbacks. Standalone LLM recommenders are costly biased and unreliable across large regions of the user item space while global distillation forces the downstream model to imitate LLM predictions even when such guidance is inaccurate. Meanwhile recent studies show that LLMs excel particularly in re ranking and challenging scenarios rather than uniformly across all contexts. We introduce Selective LLM Guided Regularization S LLMR a model agnostic and computation efficient framework that activates LLM based pairwise ranking supervision only when a trainable gating mechanism informed by user history length item popularity and model uncertainty predicts the LLM to be reliable. All LLM scoring is done offline transferring knowledge without increasing inference cost. Experiments across multiple datasets show that this selective strategy consistently improves overall accuracy and yields substantial gains in cold start and long tail regimes outperforming global distillation baselines."
+  PDF: "/assets/papers/GenAIRecP2026/Selective_LLM_Guided_Regularization.pdf"
+  code: ""
+  new_dataset: False
+
+- title: "AGP Auto Guided Prompt Refinement for Personalized Reranking in Recommender Systems"
+  authors: "Chen Wang, Mingdai Yang, Zhiwei Liu, Pan Li, Linsey Pang, Qingsong Wen, Philip S Yu"
+  abstract: "Reranking plays a critical role in recommendation systems by refining initial predictions to better reflect user preferences. While large language models LLMs have shown promise in enhancing reranking through contextual reasoning they still rely heavily on manually crafted prompts an approach that is both labor intensive and difficult to scale. Although prompt optimization has been studied in domains like question answering and news recommendation its adaptation to general item recommendation remains limited due to the unstructured and inconsistent nature of item metadata. To address these challenges we propose Auto Guided Prompt Refinement AGP a novel framework that automatically refines user profile generation prompts instead of reranking prompts directly. AGP leverages position based feedback which encodes item level ranking misalignments and introduces batched training with aggregated feedback to ensure robust and generalizable prompt updates. Experimental results on Amazon Movies and TV Yelp and Goodreads demonstrate AGPs effectiveness. With only 100 training users AGP improves NDCG at 10 by 5.61 percent 2.46 percent and 6.18 percent when reranking SASRec and by 9.36 percent 7.98 percent and 20.68 percent when reranking LightGCN."
+  PDF: "/assets/papers/GenAIRecP2026/AGP_WSDM2026.pdf"
+  code: "https://github.com/ChenMetanoia/AGP"
+  new_dataset: False
+
+- title: "Joint Evaluation Framework for Comprehensive AI Safety Assessment"
+  authors: "Himanshu Joshi, Shivani Shukla, Priyanka Kumar"
+  abstract: "Evaluating the safety and alignment of AI systems remains a critical challenge as foundation models grow increasingly sophisticated. Traditional evaluation methods rely heavily on human expert review creating bottlenecks that cannot scale with rapid AI development. We introduce Jo E Joint Evaluation a multi agent collaborative framework that systematically coordinates large language model evaluators specialized adversarial agents and strategic human expert involvement for comprehensive safety assessments. Our framework employs a five phase evaluation pipeline with explicit mechanisms for conflict resolution severity scoring and adaptive escalation. Through extensive experiments on GPT 4o Claude 3.5 Sonnet Llama 3.1 70B and Phi 3 medium we demonstrate that Jo E achieves 94.2 percent detection accuracy compared to 78.3 percent for single LLM as Judge approaches and 86.1 percent for Agent as Judge baselines while reducing human expert time by 54 percent compared to pure human evaluation."
+  PDF: "/assets/papers/GenAIRecP2026/Jo_E__Joint_Evaluation_Framework_for_Comprehensive_AI_Safety_Assessment_ACM_WSDM_2026.pdf"
+  code: ""
+  new_dataset: False
+
+- title: "Multi Agent Video Recommenders Evolution Patterns and Open Challenges"
+  authors: "Srivaths Ranganathan, Abhishek Dharmaratnakar, Anushree Sinha, Debanshu Das"
+  abstract: "Video recommender systems are among the most popular and impactful applications of AI shaping content consumption and influencing culture for billions of users. Traditional single model recommenders which optimize static engagement metrics are increasingly limited in addressing the dynamic requirements of modern platforms. In response multi agent architectures are redefining how video recommender systems serve learn and adapt to both users and datasets. These agent based systems coordinate specialized agents responsible for video understanding reasoning memory and feedback to provide precise explainable recommendations. In this survey we trace the evolution of multi agent video recommendation systems MAVRS. We combine ideas from multi agent recommender systems foundation models and conversational AI culminating in the emerging field of large language model LLM powered MAVRS. We present a taxonomy of collaborative patterns and analyze coordination mechanisms across diverse video domains ranging from short form clips to educational platforms."
+  PDF: "/assets/papers/GenAIRecP2026/srivathsRanganathan_MultiAgentVideoRecSys.pdf"
+  code: ""
   new_dataset: False
