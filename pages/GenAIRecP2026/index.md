@@ -158,18 +158,28 @@ We will welcome papers that leverage generative models with a goal of recommenda
 
 # Schedule
 
-| Time (local) | Agenda |
-| ----------------- | ------------ |
-| **TBD**    | **Opening remarks** |
-| **TBD**    | **[Keynote 1](#keynote-speakers) (40 min)** |
-| **TBD**    | **[Poster Session] (30 min)** |
-| **TBD**    | **[Coffee Break + Poster Spillover] (30 min)** |
-| **TBD**    | **[Keynote 2](#keynote-speakers) (40 min)** |
-| **TBD**    | **[Panel Discussion](#panelists) (60 min)** |
-
-<div class="small">
-{{ schedule | markdownify }}
-</div>
+| Time | Event | Speaker |
+| --- | --- | --- |
+| **9:00 - 9:10am** | Opening Remarks | Neil Shah |
+| **9:10 - 9:50am** | Keynote 1 | Chirag Shah |
+| **9:50 - 10:30am** | Keynote 2 | Yinglong Xia |
+| **10:30 - 11:00am** | Coffee Break | |
+| **11:00 - 11:45am** | **Oral Session 1** | |
+| | InsertRank: LLMs can Reason over BM25 Scores to Improve Listwise Reranking | |
+| | Selective LLM-Guided Regularization for Enhancing Recommendation Models | |
+| | AGP: Auto-Guided Prompt Refinement for Personalized Reranking in Recommender Systems | |
+| **11:45am - 12:30pm** | Keynote 3 | Meng Jiang |
+| **12:30 - 1:45pm** | Lunch | |
+| **1:45 - 2:30pm** | Keynote 4 | Nathan Kallus |
+| **2:30 - 3:30pm** | **Oral Session 2** | |
+| | Joint Evaluation: A Human+LLM+Multi-Agents Collaborative Framework for Comprehensive AI Safety | |
+| | Multi-Agent Video Recommenders: Evolution, Patterns and Open Challenges | |
+| | Large-Scale Retrieval for the LinkedIn Feed using Causal Language Models | |
+| | Agentic Orchestration for Adaptive Educational Recommendations: A Multi-Agent LLM Framework for Personalized Learning Pathways | |
+| **3:30 - 4:00pm** | Coffee Break | |
+| **4:00 - 4:20pm** | Invited Talk 1: Sequential Data Augmentation for Generative Recommendation | Liam Collins |
+| **4:20 - 4:40pm** | Invited Talk 2: Continuous Time Discrete-space Diffusion Model for Recommendation | Chengyi Liu |
+| **4:40 - 4:50pm** | Closing Remarks | |
 
 # Keynote Speakers
 {% include feature_row id="keynote" type="left" %}
