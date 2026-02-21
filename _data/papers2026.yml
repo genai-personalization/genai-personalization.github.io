@@ -32,3 +32,17 @@
   PDF: "/assets/papers/GenAIRecP2026/srivathsRanganathan_MultiAgentVideoRecSys.pdf"
   code: ""
   new_dataset: False
+
+- title: "Large-Scale Retrieval for the LinkedIn Feed using Causal Language Models"
+  authors: ""
+  abstract: ""
+  PDF: ""
+  code: ""
+  new_dataset: False
+
+- title: "Agentic Orchestration for Adaptive Educational Recommendations A Multi-Agent LLM Framework for Personalized Learning Pathways"
+  authors: "Naina Chaturvedi, Ananda Gunawardena"
+  abstract: "Educational personalization represents a unique challenge for recommender systems: learners require not just content recommendations, but dynamic curriculum adaptation, real-time feedback, and proactive intervention strategies that evolve over extended timescales. We present a novel multi-agent architecture that treats educational personalization as an emergent property of specialized agent collaboration rather than a monolithic recommendation model. Our framework deploys 18+ coordinated agents organized in a four-tier hierarchy spanning perception, domain expertise, coordination, and strategic planning. Through deployment on a learning platform serving 6,000+ active users, we demonstrate that hierarchical agent orchestration enables recommendation capabilities unachievable by single-model approaches: parallel domain-specific analysis, temporal stratification from millisecond feedback to multi-month roadmap generation, and graceful degradation under partial failures. We present the architectural principles, coordination protocols, and preliminary evidence that agentic systems offer a promising paradigm for next-generation personalized learning systems. Our work contributes both a concrete implementation blueprint and theoretical foundations for applying multi-agent LLM orchestration to complex recommendation domains beyond education."
+  PDF: "/assets/papers/GenAIRecP2026/NainaChaturvedi_AgenticOrchestration.pdf"
+  code: ""
+  new_dataset: False
